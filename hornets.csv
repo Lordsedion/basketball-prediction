@@ -1,0 +1,298 @@
+,home_team,away_team,first_quarter_home,second_quarter_home,third_quarter_home,fourth_quarter_home,first_quarter_away,second_quarter_away,third_quarter_away,fourth_quarter_away,event_time
+0,Cleveland Cavaliers,Charlotte Hornets,25,29,21,20,17,32,21,36,09.04. 18:00
+1,Charlotte Hornets,Houston Rockets,26,23,24,36,25,30,30,27,08.04. 00:00
+2,Charlotte Hornets,Toronto Raptors,29,20,26,25,25,36,33,26,05.04. 00:00
+3,Charlotte Hornets,Toronto Raptors,25,27,37,19,35,32,34,27,02.04. 18:00
+4,Charlotte Hornets,Chicago Bulls,23,23,31,14,31,31,28,31,01.04. 00:00
+5,Oklahoma City Thunder,Charlotte Hornets,23,45,31,35,26,31,36,44,29.03. 01:00
+6,Charlotte Hornets,Dallas Mavericks,30,25,26,29,16,32,24,32,26.03. 18:00
+7,Dallas Mavericks,Charlotte Hornets,26,29,32,22,37,32,26,22,25.03. 01:30
+8,New Orleans Pelicans,Charlotte Hornets,37,25,26,27,24,33,24,15,24.03. 01:00
+9,Charlotte Hornets,Indiana Pacers,22,36,27,30,40,26,22,21,21.03. 00:00
+10,Charlotte Hornets,Philadelphia 76ers,29,25,13,15,31,35,26,29,18.03. 00:00
+11,Charlotte Hornets,Cleveland Cavaliers,27,21,28,28,30,33,35,22,15.03. 00:00
+12,Charlotte Hornets,Cleveland Cavaliers,35,24,30,19,25,27,29,33,12.03. 22:00
+13,Charlotte Hornets,Utah Jazz,29,20,32,30,32,26,39,22,12.03. 01:00
+14,Detroit Pistons,Charlotte Hornets,23,27,33,20,31,28,34,20,10.03. 01:00
+15,New York Knicks,Charlotte Hornets,21,45,23,16,21,29,37,25,08.03. 01:30
+16,Brooklyn Nets,Charlotte Hornets,36,34,16,16,21,20,21,24,06.03. 00:00
+17,Charlotte Hornets,Orlando Magic,26,22,25,33,31,33,27,26,04.03. 01:00
+18,Charlotte Hornets,Phoenix Suns,22,19,32,18,27,30,22,26,02.03. 01:00
+19,Charlotte Hornets,Detroit Pistons,41,24,27,25,21,25,30,30,28.02. 01:00
+20,Charlotte Hornets,Miami Heat,29,25,28,26,16,35,21,31,26.02. 01:00
+21,Minnesota Timberwolves,Charlotte Hornets,32,32,25,24,37,35,24,25,25.02. 02:00
+22,Charlotte Hornets,San Antonio Spurs,32,28,33,27,32,25,29,24,16.02. 01:00
+23,Charlotte Hornets,Atlanta Hawks,36,38,35,35,27,41,28,42,14.02. 01:00
+24,Charlotte Hornets,Denver Nuggets,34,26,23,22,27,30,37,25,12.02. 01:00
+25,Boston Celtics,Charlotte Hornets,32,39,26,30,24,29,28,35,11.02. 01:30
+26,Washington Wizards,Charlotte Hornets,32,29,27,30,31,30,15,28,09.02. 01:00
+27,Charlotte Hornets,Orlando Magic,37,21,27,28,28,34,28,29,05.02. 19:00
+28,Detroit Pistons,Charlotte Hornets,29,40,23,26,30,38,26,18,04.02. 01:10
+29,Chicago Bulls,Charlotte Hornets,31,22,32,29,29,20,21,28,03.02. 02:00
+30,Milwaukee Bucks,Charlotte Hornets,34,30,33,27,27,37,26,25,01.02. 02:00
+31,Charlotte Hornets,Miami Heat,26,32,33,31,28,34,24,31,29.01. 19:00
+32,Charlotte Hornets,Chicago Bulls,32,15,30,34,36,19,24,17,27.01. 01:30
+33,Phoenix Suns,Charlotte Hornets,36,22,40,30,15,32,30,20,25.01. 03:00
+34,Utah Jazz,Charlotte Hornets,21,37,31,31,24,21,34,23,24.01. 03:00
+35,Atlanta Hawks,Charlotte Hornets,31,34,28,25,25,24,36,37,22.01. 01:30
+36,Houston Rockets,Charlotte Hornets,31,29,24,33,36,17,30,39,19.01. 02:00
+37,Charlotte Hornets,Boston Celtics,22,33,31,32,35,31,26,38,16.01. 19:00
+38,Charlotte Hornets,Boston Celtics,34,32,19,21,31,31,33,27,15.01. 01:00
+39,Toronto Raptors,Charlotte Hornets,38,31,28,27,29,26,33,26,13.01. 01:30
+40,Toronto Raptors,Charlotte Hornets,35,37,24,36,34,32,28,26,11.01. 01:30
+41,Indiana Pacers,Charlotte Hornets,15,32,26,43,27,18,34,32,08.01. 23:00
+42,Milwaukee Bucks,Charlotte Hornets,28,32,27,22,51,33,28,26,07.01. 02:00
+43,Charlotte Hornets,Memphis Grizzlies,26,21,26,34,40,36,26,29,05.01. 01:00
+44,Charlotte Hornets,Los Angeles Lakers,21,24,31,39,22,38,34,27,03.01. 01:00
+45,Charlotte Hornets,Brooklyn Nets,22,27,30,27,32,29,36,26,01.01. 01:00
+46,Charlotte Hornets,Oklahoma City Thunder,36,21,28,36,30,30,24,29,30.12.2022
+47,Golden State Warriors,Charlotte Hornets,37,28,24,21,26,26,26,27,28.12.2022
+48,Portland Trail Blazers,Charlotte Hornets,30,31,40,23,34,33,28,18,27.12.2022
+49,Los Angeles Lakers,Charlotte Hornets,31,36,20,43,27,40,30,37,24.12.2022
+50,Los Angeles Clippers,Charlotte Hornets,37,34,26,29,19,21,34,31,22.12.2022
+51,Sacramento Kings,Charlotte Hornets,30,33,29,27,39,27,25,34,20.12.2022
+52,Denver Nuggets,Charlotte Hornets,20,35,39,25,25,27,28,35,19.12.2022
+53,Charlotte Hornets,Atlanta Hawks,24,35,33,14,38,37,23,27,17.12.2022
+54,Charlotte Hornets,Detroit Pistons,33,36,28,30,35,38,34,20,"15.12.2022
+AOT"
+55,Philadelphia 76ers,Charlotte Hornets,20,41,35,35,21,33,33,26,12.12.2022
+56,Charlotte Hornets,New York Knicks,20,29,22,31,22,33,34,32,10.12.2022
+57,Brooklyn Nets,Charlotte Hornets,38,35,23,26,28,27,32,29,08.12.2022
+58,Charlotte Hornets,Los Angeles Clippers,26,28,36,27,28,35,21,35,06.12.2022
+59,Charlotte Hornets,Milwaukee Bucks,24,21,28,23,30,26,28,21,04.12.2022
+60,Charlotte Hornets,Washington Wizards,36,38,33,10,31,28,29,28,03.12.2022
+61,Boston Celtics,Charlotte Hornets,45,33,43,19,19,36,27,23,29.11.2022
+62,Charlotte Hornets,Minnesota Timberwolves,29,23,39,19,34,28,21,25,25.11.2022
+63,Charlotte Hornets,Philadelphia 76ers,21,32,26,28,33,21,21,26,24.11.2022
+64,Washington Wizards,Charlotte Hornets,35,24,18,29,27,28,24,23,21.11.2022
+65,Cleveland Cavaliers,Charlotte Hornets,28,30,24,23,14,32,24,35,"19.11.2022
+AOT"
+66,Charlotte Hornets,Indiana Pacers,27,36,27,23,27,33,30,35,17.11.2022
+67,Orlando Magic,Charlotte Hornets,23,22,24,36,31,27,26,28,15.11.2022
+68,Miami Heat,Charlotte Hornets,34,23,45,30,33,26,25,31,13.11.2022
+69,Miami Heat,Charlotte Hornets,32,26,27,19,27,23,23,31,"11.11.2022
+AOT"
+70,Charlotte Hornets,Portland Trail Blazers,30,23,26,16,25,33,28,19,10.11.2022
+71,Charlotte Hornets,Washington Wizards,18,30,24,28,26,20,30,32,08.11.2022
+72,Charlotte Hornets,Brooklyn Nets,21,23,26,24,30,22,17,29,06.11.2022
+73,Memphis Grizzlies,Charlotte Hornets,41,30,33,26,24,23,22,30,05.11.2022
+74,Chicago Bulls,Charlotte Hornets,27,34,23,22,26,26,18,18,03.11.2022
+75,Charlotte Hornets,Sacramento Kings,34,33,18,23,24,28,37,26,01.11.2022
+76,Charlotte Hornets,Golden State Warriors,34,28,18,27,23,27,33,24,"30.10.2022
+AOT"
+77,Orlando Magic,Charlotte Hornets,22,29,31,31,19,11,23,40,29.10.2022
+78,New York Knicks,Charlotte Hornets,32,37,29,24,30,32,28,32,"27.10.2022
+AOT"
+79,Atlanta Hawks,Charlotte Hornets,30,25,29,25,22,37,45,22,23.10.2022
+80,Charlotte Hornets,New Orleans Pelicans,24,27,34,27,35,26,32,31,22.10.2022
+81,San Antonio Spurs,Charlotte Hornets,22,25,28,27,38,30,30,31,20.10.2022
+82,Philadelphia 76ers,Charlotte Hornets,27,21,22,29,27,29,12,26,13.10.2022
+83,Charlotte Hornets,Washington Wizards,23,35,31,18,36,25,20,35,11.10.2022
+84,Charlotte Hornets,Boston Celtics,35,27,22,19,22,35,36,19,08.10.2022
+85,Charlotte Hornets,Indiana Pacers,17,26,25,29,27,32,36,27,06.10.2022
+86,Boston Celtics,Charlotte Hornets,29,39,39,27,24,22,31,16,02.10.2022
+87,Minnesota Timberwolves,Charlotte Hornets,18,14,31,26,21,20,18,27,16.07.2022
+88,Charlotte Hornets,Chicago Bulls,14,10,23,26,20,22,25,22,14.07.2022
+89,Charlotte Hornets,Cleveland Cavaliers,19,27,29,16,18,26,19,17,13.07.2022
+90,Los Angeles Lakers,Charlotte Hornets,31,17,15,18,18,25,17,21,"11.07.2022
+AOT"
+91,Indiana Pacers,Charlotte Hornets,28,14,32,22,19,18,13,34,08.07.2022
+92,Atlanta Hawks,Charlotte Hornets,32,28,42,30,23,29,24,27,14.04.2022
+93,Charlotte Hornets,Washington Wizards,32,24,33,35,29,25,28,26,10.04.2022
+94,Chicago Bulls,Charlotte Hornets,30,21,32,34,39,40,32,22,09.04.2022
+95,Charlotte Hornets,Orlando Magic,30,40,27,31,28,22,32,19,08.04.2022
+96,Miami Heat,Charlotte Hornets,29,41,32,42,32,28,37,18,06.04.2022
+97,Philadelphia 76ers,Charlotte Hornets,29,29,45,41,26,27,27,34,02.04.2022
+98,New York Knicks,Charlotte Hornets,31,24,28,31,29,29,33,34,31.03.2022
+99,Charlotte Hornets,Denver Nuggets,30,27,27,25,32,24,37,20,29.03.2022
+100,Brooklyn Nets,Charlotte Hornets,32,28,29,21,26,30,37,26,28.03.2022
+101,Charlotte Hornets,Utah Jazz,23,31,23,30,24,27,27,23,26.03.2022
+102,Charlotte Hornets,New York Knicks,24,32,31,19,40,29,30,22,24.03.2022
+103,Charlotte Hornets,New Orleans Pelicans,19,24,35,28,22,27,35,19,22.03.2022
+104,Charlotte Hornets,Dallas Mavericks,35,26,41,27,24,28,28,28,20.03.2022
+105,Charlotte Hornets,Atlanta Hawks,29,33,23,31,33,34,18,21,17.03.2022
+106,Oklahoma City Thunder,Charlotte Hornets,41,23,27,25,29,36,37,32,15.03.2022
+107,New Orleans Pelicans,Charlotte Hornets,24,31,27,38,25,36,42,39,12.03.2022
+108,Charlotte Hornets,Boston Celtics,22,26,30,23,29,23,35,28,10.03.2022
+109,Charlotte Hornets,Brooklyn Nets,20,23,41,37,34,35,31,32,09.03.2022
+110,Charlotte Hornets,San Antonio Spurs,31,31,37,24,30,30,37,20,06.03.2022
+111,Cleveland Cavaliers,Charlotte Hornets,31,18,31,18,38,26,32,23,03.03.2022
+112,Milwaukee Bucks,Charlotte Hornets,32,44,32,22,32,21,23,30,01.03.2022
+113,Charlotte Hornets,Detroit Pistons,28,26,30,32,31,27,24,34,"28.02.2022
+AOT"
+114,Charlotte Hornets,Toronto Raptors,28,42,27,28,19,28,14,32,26.02.2022
+115,Charlotte Hornets,Miami Heat,30,24,17,16,37,10,17,23,"18.02.2022
+AOT"
+116,Minnesota Timberwolves,Charlotte Hornets,27,25,26,30,24,34,29,21,"16.02.2022
+AOT"
+117,Charlotte Hornets,Memphis Grizzlies,15,28,32,43,36,38,25,26,13.02.2022
+118,Detroit Pistons,Charlotte Hornets,29,26,32,32,36,43,31,31,12.02.2022
+119,Charlotte Hornets,Chicago Bulls,29,16,31,33,28,30,31,32,10.02.2022
+120,Charlotte Hornets,Toronto Raptors,21,20,34,26,35,21,24,36,08.02.2022
+121,Charlotte Hornets,Miami Heat,23,28,8,27,31,15,35,23,06.02.2022
+122,Charlotte Hornets,Cleveland Cavaliers,31,15,19,36,22,30,24,26,05.02.2022
+123,Boston Celtics,Charlotte Hornets,27,27,34,25,22,31,25,29,03.02.2022
+124,Charlotte Hornets,Los Angeles Clippers,25,22,29,14,24,27,33,31,30.01.2022
+125,Charlotte Hornets,Los Angeles Lakers,31,34,22,30,21,28,36,29,29.01.2022
+126,Indiana Pacers,Charlotte Hornets,36,34,24,32,33,38,42,45,27.01.2022
+127,Toronto Raptors,Charlotte Hornets,39,37,29,20,27,34,25,27,26.01.2022
+128,Charlotte Hornets,Atlanta Hawks,22,22,22,25,30,25,30,28,24.01.2022
+129,Charlotte Hornets,Oklahoma City Thunder,37,32,24,28,20,32,23,23,22.01.2022
+130,Boston Celtics,Charlotte Hornets,27,21,26,28,25,31,30,25,20.01.2022
+131,New York Knicks,Charlotte Hornets,23,21,23,20,34,28,24,11,17.01.2022
+132,Charlotte Hornets,Orlando Magic,36,27,28,18,35,26,27,28,15.01.2022
+133,Philadelphia 76ers,Charlotte Hornets,35,15,26,22,34,30,21,24,13.01.2022
+134,Charlotte Hornets,Milwaukee Bucks,28,19,36,20,19,29,26,25,11.01.2022
+135,Charlotte Hornets,Milwaukee Bucks,27,20,42,25,29,12,34,31,09.01.2022
+136,Charlotte Hornets,Detroit Pistons,37,28,35,40,19,32,24,36,06.01.2022
+137,Washington Wizards,Charlotte Hornets,38,18,28,40,25,39,26,31,04.01.2022
+138,Charlotte Hornets,Phoenix Suns,27,20,27,25,36,37,33,27,03.01.2022
+139,Indiana Pacers,Charlotte Hornets,27,30,25,26,34,37,19,26,30.12.2021
+140,Charlotte Hornets,Houston Rockets,33,31,32,27,29,21,20,29,28.12.2021
+141,Denver Nuggets,Charlotte Hornets,26,39,29,13,27,25,25,38,24.12.2021
+142,Utah Jazz,Charlotte Hornets,35,19,26,32,16,25,27,34,21.12.2021
+143,Phoenix Suns,Charlotte Hornets,37,32,39,29,15,32,33,26,20.12.2021
+144,Portland Trail Blazers,Charlotte Hornets,41,40,22,22,24,31,31,30,18.12.2021
+145,San Antonio Spurs,Charlotte Hornets,31,26,25,33,46,27,37,21,16.12.2021
+146,Dallas Mavericks,Charlotte Hornets,37,33,21,29,20,23,26,27,14.12.2021
+147,Charlotte Hornets,Sacramento Kings,37,32,29,26,36,35,28,24,11.12.2021
+148,Charlotte Hornets,Philadelphia 76ers,26,27,28,25,26,25,31,28,09.12.2021
+149,Charlotte Hornets,Philadelphia 76ers,34,28,31,26,23,44,28,24,"07.12.2021
+AOT"
+150,Atlanta Hawks,Charlotte Hornets,30,31,31,35,30,38,31,31,06.12.2021
+151,Milwaukee Bucks,Charlotte Hornets,25,35,37,30,41,27,27,30,02.12.2021
+152,Chicago Bulls,Charlotte Hornets,30,39,35,29,31,27,27,34,30.11.2021
+153,Houston Rockets,Charlotte Hornets,43,30,37,25,30,41,28,36,"28.11.2021
+AOT"
+154,Charlotte Hornets,Minnesota Timberwolves,30,38,31,34,28,30,25,32,27.11.2021
+155,Orlando Magic,Charlotte Hornets,28,21,28,22,24,28,30,24,25.11.2021
+156,Washington Wizards,Charlotte Hornets,27,23,23,30,26,33,24,26,23.11.2021
+157,Atlanta Hawks,Charlotte Hornets,25,35,29,26,21,27,29,28,21.11.2021
+158,Charlotte Hornets,Indiana Pacers,27,36,35,23,22,26,37,33,20.11.2021
+159,Charlotte Hornets,Washington Wizards,24,21,30,22,29,22,14,22,18.11.2021
+160,Charlotte Hornets,Golden State Warriors,30,27,30,19,27,30,31,14,15.11.2021
+161,Charlotte Hornets,New York Knicks,18,28,34,24,34,21,21,20,13.11.2021
+162,Memphis Grizzlies,Charlotte Hornets,36,16,26,30,34,26,21,37,11.11.2021
+163,Los Angeles Lakers,Charlotte Hornets,29,32,33,21,26,34,27,28,"09.11.2021
+AOT"
+164,Los Angeles Clippers,Charlotte Hornets,31,30,28,31,39,19,29,19,08.11.2021
+165,Sacramento Kings,Charlotte Hornets,41,33,32,34,22,31,36,21,06.11.2021
+166,Golden State Warriors,Charlotte Hornets,21,32,27,34,26,26,15,25,04.11.2021
+167,Charlotte Hornets,Cleveland Cavaliers,21,28,27,34,40,25,23,25,02.11.2021
+168,Charlotte Hornets,Portland Trail Blazers,27,26,36,36,29,31,28,25,01.11.2021
+169,Miami Heat,Charlotte Hornets,33,31,20,30,22,24,29,24,30.10.2021
+170,Orlando Magic,Charlotte Hornets,31,30,32,18,31,33,27,29,28.10.2021
+171,Charlotte Hornets,Boston Celtics,33,33,31,25,33,35,26,28,"26.10.2021
+AOT"
+172,Brooklyn Nets,Charlotte Hornets,31,27,20,17,27,23,29,32,24.10.2021
+173,Cleveland Cavaliers,Charlotte Hornets,30,29,30,23,27,27,36,33,23.10.2021
+174,Charlotte Hornets,Indiana Pacers,27,32,33,31,38,37,13,34,21.10.2021
+175,Charlotte Hornets,Dallas Mavericks,17,13,11,18,24,37,30,36,13.10.2021
+176,Miami Heat,Charlotte Hornets,27,20,30,27,24,29,25,25,12.10.2021
+177,Charlotte Hornets,Memphis Grizzlies,19,24,27,28,31,42,28,27,08.10.2021
+178,Oklahoma City Thunder,Charlotte Hornets,18,27,26,26,34,33,24,22,05.10.2021
+179,Chicago Bulls,Charlotte Hornets,17,28,31,23,13,15,22,24,17.08.2021
+180,Toronto Raptors,Charlotte Hornets,13,15,23,29,8,29,27,15,15.08.2021
+181,Charlotte Hornets,San Antonio Spurs,18,33,25,29,23,31,26,26,12.08.2021
+182,Sacramento Kings,Charlotte Hornets,16,15,24,25,13,14,21,22,09.08.2021
+183,Charlotte Hornets,Portland Trail Blazers,17,17,23,29,21,21,18,33,08.08.2021
+184,Indiana Pacers,Charlotte Hornets,40,29,39,36,24,21,33,39,18.05.2021
+185,Washington Wizards,Charlotte Hornets,22,30,27,36,36,20,34,20,16.05.2021
+186,New York Knicks,Charlotte Hornets,36,27,26,15,27,27,32,18,"15.05.2021
+AOT"
+187,Charlotte Hornets,Los Angeles Clippers,23,24,30,13,31,13,40,29,14.05.2021
+188,Charlotte Hornets,Denver Nuggets,26,34,26,26,38,25,28,26,12.05.2021
+189,Charlotte Hornets,New Orleans Pelicans,25,42,29,14,34,23,32,23,10.05.2021
+190,Charlotte Hornets,Orlando Magic,26,34,34,28,31,31,27,23,08.05.2021
+191,Charlotte Hornets,Chicago Bulls,24,29,21,25,34,25,37,24,07.05.2021
+192,Detroit Pistons,Charlotte Hornets,28,21,23,27,30,23,25,24,05.05.2021
+193,Charlotte Hornets,Miami Heat,32,26,22,31,35,30,35,21,03.05.2021
+194,Charlotte Hornets,Detroit Pistons,26,32,21,28,18,24,28,24,02.05.2021
+195,Boston Celtics,Charlotte Hornets,39,19,30,32,19,28,33,31,29.04.2021
+196,Charlotte Hornets,Milwaukee Bucks,28,17,35,24,33,29,25,27,28.04.2021
+197,Charlotte Hornets,Boston Celtics,33,30,37,25,23,29,36,16,25.04.2021
+198,Charlotte Hornets,Cleveland Cavaliers,22,26,30,30,20,35,23,24,24.04.2021
+199,Chicago Bulls,Charlotte Hornets,34,24,30,20,23,21,23,24,23.04.2021
+200,New York Knicks,Charlotte Hornets,30,30,31,18,33,33,16,15,21.04.2021
+201,Charlotte Hornets,Portland Trail Blazers,44,21,28,16,24,27,21,29,19.04.2021
+202,Brooklyn Nets,Charlotte Hornets,29,32,33,36,35,26,28,26,17.04.2021
+203,Charlotte Hornets,Cleveland Cavaliers,23,18,25,24,27,22,26,28,15.04.2021
+204,Charlotte Hornets,Los Angeles Lakers,22,28,16,27,25,27,24,25,14.04.2021
+205,Charlotte Hornets,Atlanta Hawks,20,25,32,24,33,19,23,30,11.04.2021
+206,Milwaukee Bucks,Charlotte Hornets,27,28,26,38,32,34,34,27,10.04.2021
+207,Oklahoma City Thunder,Charlotte Hornets,29,22,26,25,32,24,29,28,08.04.2021
+208,Boston Celtics,Charlotte Hornets,25,33,40,18,26,17,27,16,04.04.2021
+209,Indiana Pacers,Charlotte Hornets,24,25,27,21,28,32,24,30,03.04.2021
+210,Brooklyn Nets,Charlotte Hornets,32,36,24,19,11,37,17,24,02.04.2021
+211,Washington Wizards,Charlotte Hornets,29,27,25,23,32,32,25,25,31.03.2021
+212,Charlotte Hornets,Phoenix Suns,29,20,18,23,26,23,27,14,"28.03.2021
+AOT"
+213,Charlotte Hornets,Miami Heat,40,32,20,18,23,26,30,26,27.03.2021
+214,Houston Rockets,Charlotte Hornets,26,29,15,27,26,32,35,29,25.03.2021
+215,San Antonio Spurs,Charlotte Hornets,21,24,24,28,31,24,19,26,23.03.2021
+216,Los Angeles Clippers,Charlotte Hornets,37,29,32,27,21,23,32,22,21.03.2021
+217,Los Angeles Lakers,Charlotte Hornets,31,29,23,33,24,21,34,26,19.03.2021
+218,Denver Nuggets,Charlotte Hornets,26,31,38,34,25,20,22,37,18.03.2021
+219,Charlotte Hornets,Sacramento Kings,32,29,30,31,37,30,29,20,16.03.2021
+220,Charlotte Hornets,Toronto Raptors,44,23,31,16,24,28,21,31,14.03.2021
+221,Charlotte Hornets,Detroit Pistons,30,18,25,32,22,17,33,30,12.03.2021
+222,Minnesota Timberwolves,Charlotte Hornets,33,23,20,26,36,26,36,37,04.03.2021
+223,Portland Trail Blazers,Charlotte Hornets,27,32,33,31,33,26,24,28,02.03.2021
+224,Sacramento Kings,Charlotte Hornets,39,28,29,30,36,30,22,39,01.03.2021
+225,Golden State Warriors,Charlotte Hornets,36,30,37,27,28,23,33,37,27.02.2021
+226,Phoenix Suns,Charlotte Hornets,38,29,24,30,34,32,31,27,25.02.2021
+227,Utah Jazz,Charlotte Hornets,35,29,27,41,35,32,23,20,23.02.2021
+228,Charlotte Hornets,Golden State Warriors,24,21,24,33,15,32,22,31,21.02.2021
+229,Charlotte Hornets,San Antonio Spurs,33,26,30,21,17,47,25,33,15.02.2021
+230,Charlotte Hornets,Minnesota Timberwolves,25,35,30,30,30,29,26,29,13.02.2021
+231,Memphis Grizzlies,Charlotte Hornets,34,36,31,29,38,30,15,31,11.02.2021
+232,Charlotte Hornets,Houston Rockets,32,32,26,29,27,33,27,7,09.02.2021
+233,Charlotte Hornets,Washington Wizards,34,35,33,17,31,21,21,24,07.02.2021
+234,Charlotte Hornets,Utah Jazz,32,22,36,31,30,39,37,32,06.02.2021
+235,Charlotte Hornets,Philadelphia 76ers,13,29,34,35,30,34,25,29,04.02.2021
+236,Miami Heat,Charlotte Hornets,29,28,25,31,28,26,34,25,"02.02.2021
+AOT"
+237,Charlotte Hornets,Milwaukee Bucks,39,29,29,29,31,33,30,20,31.01.2021
+238,Charlotte Hornets,Indiana Pacers,32,32,25,19,28,32,20,25,30.01.2021
+239,Charlotte Hornets,Indiana Pacers,19,36,25,26,36,23,25,32,28.01.2021
+240,Orlando Magic,Charlotte Hornets,19,36,32,30,30,24,22,32,26.01.2021
+241,Orlando Magic,Charlotte Hornets,29,29,28,18,24,26,24,33,25.01.2021
+242,Charlotte Hornets,Chicago Bulls,29,24,30,27,30,31,34,28,23.01.2021
+243,Toronto Raptors,Charlotte Hornets,31,35,22,28,27,37,23,26,17.01.2021
+244,Toronto Raptors,Charlotte Hornets,35,36,28,12,34,28,24,22,15.01.2021
+245,Charlotte Hornets,Dallas Mavericks,16,27,29,21,32,28,27,17,14.01.2021
+246,Charlotte Hornets,New York Knicks,31,26,25,27,25,25,18,20,12.01.2021
+247,Charlotte Hornets,Atlanta Hawks,28,31,28,26,29,21,26,29,10.01.2021
+248,New Orleans Pelicans,Charlotte Hornets,38,21,28,23,22,25,35,36,09.01.2021
+249,Atlanta Hawks,Charlotte Hornets,11,29,27,27,27,32,22,21,07.01.2021
+250,Philadelphia 76ers,Charlotte Hornets,23,35,24,36,20,23,23,35,05.01.2021
+251,Philadelphia 76ers,Charlotte Hornets,39,34,31,23,24,34,32,22,03.01.2021
+252,Charlotte Hornets,Memphis Grizzlies,19,28,20,26,23,30,30,25,02.01.2021
+253,Dallas Mavericks,Charlotte Hornets,29,28,12,30,36,32,30,20,31.12.2020
+254,Charlotte Hornets,Brooklyn Nets,23,25,34,24,22,28,27,27,28.12.2020
+255,Charlotte Hornets,Oklahoma City Thunder,28,31,16,32,26,31,23,29,27.12.2020
+256,Cleveland Cavaliers,Charlotte Hornets,24,41,28,28,23,21,36,34,24.12.2020
+257,Orlando Magic,Charlotte Hornets,38,25,31,26,27,22,29,39,20.12.2020
+258,Orlando Magic,Charlotte Hornets,18,40,30,27,32,36,31,24,18.12.2020
+259,Charlotte Hornets,Toronto Raptors,30,30,27,22,22,35,28,27,15.12.2020
+260,Charlotte Hornets,Toronto Raptors,32,19,25,24,23,35,29,24,13.12.2020
+261,Miami Heat,Charlotte Hornets,40,11,26,21,22,37,28,22,12.03.2020
+262,Atlanta Hawks,Charlotte Hornets,32,34,32,24,32,31,31,28,"10.03.2020
+AOT"
+263,Charlotte Hornets,Houston Rockets,30,27,25,26,17,26,33,23,07.03.2020
+264,Charlotte Hornets,Denver Nuggets,34,17,31,30,31,29,20,34,06.03.2020
+265,Charlotte Hornets,San Antonio Spurs,36,22,18,27,19,30,28,27,04.03.2020
+266,Charlotte Hornets,Milwaukee Bucks,20,23,25,17,26,19,25,23,01.03.2020
+267,Toronto Raptors,Charlotte Hornets,23,18,25,30,25,27,21,26,29.02.2020
+268,Charlotte Hornets,New York Knicks,30,26,29,22,27,19,29,26,27.02.2020
+269,Indiana Pacers,Charlotte Hornets,35,34,25,25,25,19,11,25,26.02.2020
+270,Charlotte Hornets,Brooklyn Nets,25,20,18,23,30,25,33,27,23.02.2020
+271,Chicago Bulls,Charlotte Hornets,20,24,29,20,33,27,19,24,21.02.2020
+272,Minnesota Timberwolves,Charlotte Hornets,36,30,21,21,28,22,31,34,13.02.2020
+273,Detroit Pistons,Charlotte Hornets,11,26,22,17,21,26,19,21,11.02.2020
+274,Charlotte Hornets,Dallas Mavericks,10,33,22,35,31,33,30,22,09.02.2020
+275,Houston Rockets,Charlotte Hornets,22,40,30,33,34,29,25,22,05.02.2020
+276,Charlotte Hornets,Orlando Magic,24,30,23,23,25,31,29,27,04.02.2020
+277,San Antonio Spurs,Charlotte Hornets,30,20,29,35,28,35,11,16,02.02.2020
+278,Washington Wizards,Charlotte Hornets,26,29,31,35,33,27,19,28,31.01.2020
+279,Charlotte Hornets,New York Knicks,15,32,21,29,26,24,16,26,29.01.2020

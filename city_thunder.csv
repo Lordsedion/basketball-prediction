@@ -1,0 +1,255 @@
+,home_team,away_team,first_quarter_home,second_quarter_home,third_quarter_home,fourth_quarter_home,first_quarter_away,second_quarter_away,third_quarter_away,fourth_quarter_away,event_time
+0,Oklahoma City Thunder,Memphis Grizzlies,20,27,38,30,24,25,24,27,09.04. 20:30
+1,Utah Jazz,Oklahoma City Thunder,25,27,24,22,32,23,29,30,07.04. 02:00
+2,Golden State Warriors,Oklahoma City Thunder,36,33,33,34,39,40,27,19,05.04. 03:00
+3,Oklahoma City Thunder,Phoenix Suns,27,28,34,29,27,42,29,30,03.04. 00:00
+4,Indiana Pacers,Oklahoma City Thunder,36,29,25,31,32,29,33,23,01.04. 00:00
+5,Oklahoma City Thunder,Detroit Pistons,26,28,30,23,26,30,24,26,30.03. 01:00
+6,Oklahoma City Thunder,Charlotte Hornets,23,45,31,35,26,31,36,44,29.03. 01:00
+7,Portland Trail Blazers,Oklahoma City Thunder,37,25,32,18,25,43,28,22,27.03. 00:00
+8,Los Angeles Lakers,Oklahoma City Thunder,41,33,19,23,25,41,26,19,25.03. 03:30
+9,Los Angeles Clippers,Oklahoma City Thunder,36,18,38,35,29,25,26,25,24.03. 03:30
+10,Los Angeles Clippers,Oklahoma City Thunder,22,29,30,19,23,33,24,21,22.03. 03:30
+11,Oklahoma City Thunder,Phoenix Suns,25,32,33,34,31,38,27,24,19.03. 20:30
+12,Toronto Raptors,Oklahoma City Thunder,29,35,29,35,28,31,28,24,17.03. 00:30
+13,Oklahoma City Thunder,Brooklyn Nets,24,28,38,31,33,29,20,25,15.03. 01:00
+14,San Antonio Spurs,Oklahoma City Thunder,19,28,24,19,29,23,26,24,13.03. 00:00
+15,New Orleans Pelicans,Oklahoma City Thunder,22,22,28,24,32,31,24,23,12.03. 02:30
+16,Phoenix Suns,Oklahoma City Thunder,34,26,44,28,21,31,28,21,09.03. 03:00
+17,Oklahoma City Thunder,Golden State Warriors,40,28,37,32,30,34,35,29,08.03. 02:00
+18,Oklahoma City Thunder,Utah Jazz,35,35,31,28,20,31,33,35,06.03. 01:00
+19,Oklahoma City Thunder,Utah Jazz,34,33,30,33,29,23,32,19,04.03. 02:00
+20,Oklahoma City Thunder,Los Angeles Lakers,30,30,24,33,31,26,33,33,02.03. 02:00
+21,Oklahoma City Thunder,Sacramento Kings,38,28,21,30,44,27,22,30,01.03. 02:00
+22,Oklahoma City Thunder,Sacramento Kings,26,24,40,25,36,22,36,30,27.02. 01:00
+23,Phoenix Suns,Oklahoma City Thunder,29,36,29,30,30,30,27,28,25.02. 04:00
+24,Utah Jazz,Oklahoma City Thunder,28,18,32,28,26,29,31,20,"24.02. 03:00
+AOT"
+25,Oklahoma City Thunder,Houston Rockets,38,38,40,17,21,33,24,18,16.02. 02:00
+26,Oklahoma City Thunder,New Orleans Pelicans,25,26,22,27,33,27,16,27,14.02. 02:00
+27,Portland Trail Blazers,Oklahoma City Thunder,35,33,37,24,33,39,31,35,11.02. 04:00
+28,Los Angeles Lakers,Oklahoma City Thunder,34,32,33,31,36,40,28,29,08.02. 04:00
+29,Golden State Warriors,Oklahoma City Thunder,31,29,44,37,37,16,26,35,07.02. 04:00
+30,Oklahoma City Thunder,Houston Rockets,38,41,44,30,19,34,28,40,05.02. 02:00
+31,Houston Rockets,Oklahoma City Thunder,34,33,17,28,25,33,28,20,02.02. 02:00
+32,Oklahoma City Thunder,Golden State Warriors,20,28,37,35,38,25,31,34,31.01. 02:00
+33,Oklahoma City Thunder,Cleveland Cavaliers,27,20,31,34,25,29,24,22,28.01. 02:00
+34,Oklahoma City Thunder,Atlanta Hawks,43,34,27,28,39,38,32,28,26.01. 02:00
+35,Denver Nuggets,Oklahoma City Thunder,18,29,27,25,27,25,29,20,23.01. 02:00
+36,Sacramento Kings,Oklahoma City Thunder,33,26,32,27,32,34,22,25,21.01. 04:00
+37,Oklahoma City Thunder,Indiana Pacers,36,22,42,26,20,24,29,33,19.01. 02:00
+38,Brooklyn Nets,Oklahoma City Thunder,24,26,30,22,28,20,27,37,16.01. 00:00
+39,Chicago Bulls,Oklahoma City Thunder,31,27,32,20,33,39,19,33,14.01. 02:00
+40,Philadelphia 76ers,Oklahoma City Thunder,35,22,28,29,35,32,34,32,13.01. 01:00
+41,Miami Heat,Oklahoma City Thunder,31,32,26,23,26,30,32,23,11.01. 01:30
+42,Oklahoma City Thunder,Dallas Mavericks,33,36,27,24,34,21,28,26,09.01. 01:00
+43,Oklahoma City Thunder,Washington Wizards,35,33,35,24,17,25,38,30,07.01. 02:00
+44,Orlando Magic,Oklahoma City Thunder,31,39,25,31,28,25,35,27,05.01. 01:00
+45,Oklahoma City Thunder,Boston Celtics,34,40,48,28,33,21,37,26,04.01. 02:00
+46,Oklahoma City Thunder,Philadelphia 76ers,20,23,29,24,38,31,20,26,01.01. 02:00
+47,Charlotte Hornets,Oklahoma City Thunder,36,21,28,36,30,30,24,29,30.12.2022
+48,Oklahoma City Thunder,San Antonio Spurs,38,32,25,35,33,27,33,21,28.12.2022
+49,Oklahoma City Thunder,New Orleans Pelicans,23,23,31,35,33,31,16,32,"24.12.2022
+AOT"
+50,Oklahoma City Thunder,Portland Trail Blazers,22,27,29,23,32,22,24,20,22.12.2022
+51,Oklahoma City Thunder,Portland Trail Blazers,28,33,33,29,28,30,36,27,20.12.2022
+52,Oklahoma City Thunder,Memphis Grizzlies,25,39,27,24,21,22,33,33,18.12.2022
+53,Oklahoma City Thunder,Minnesota Timberwolves,28,22,41,19,30,33,25,24,17.12.2022
+54,Oklahoma City Thunder,Miami Heat,31,21,32,24,31,33,22,24,15.12.2022
+55,Dallas Mavericks,Oklahoma City Thunder,23,43,31,24,28,24,38,24,13.12.2022
+56,Cleveland Cavaliers,Oklahoma City Thunder,28,31,23,28,22,24,26,30,11.12.2022
+57,Memphis Grizzlies,Oklahoma City Thunder,27,30,37,29,25,27,35,15,08.12.2022
+58,Atlanta Hawks,Oklahoma City Thunder,29,30,29,26,27,27,30,37,06.12.2022
+59,Minnesota Timberwolves,Oklahoma City Thunder,29,28,44,27,32,31,34,38,04.12.2022
+60,Oklahoma City Thunder,San Antonio Spurs,32,28,28,31,35,42,19,15,01.12.2022
+61,New Orleans Pelicans,Oklahoma City Thunder,34,22,25,24,26,24,24,27,29.11.2022
+62,Houston Rockets,Oklahoma City Thunder,23,42,30,23,22,22,29,32,27.11.2022
+63,Oklahoma City Thunder,Chicago Bulls,32,27,28,23,30,29,21,30,"26.11.2022
+AOT"
+64,Oklahoma City Thunder,Denver Nuggets,21,42,34,23,38,31,15,36,"24.11.2022
+AOT"
+65,Oklahoma City Thunder,New York Knicks,34,24,29,32,38,31,29,31,22.11.2022
+66,Memphis Grizzlies,Oklahoma City Thunder,33,30,29,29,28,31,24,27,19.11.2022
+67,Washington Wizards,Oklahoma City Thunder,37,30,20,33,29,25,35,32,17.11.2022
+68,Boston Celtics,Oklahoma City Thunder,32,30,27,37,35,34,27,26,15.11.2022
+69,New York Knicks,Oklahoma City Thunder,48,25,33,29,36,43,43,23,13.11.2022
+70,Oklahoma City Thunder,Toronto Raptors,29,41,36,26,24,32,29,28,12.11.2022
+71,Oklahoma City Thunder,Milwaukee Bucks,27,28,32,32,27,28,29,35,"10.11.2022
+AOT"
+72,Detroit Pistons,Oklahoma City Thunder,28,20,36,28,33,30,22,18,08.11.2022
+73,Milwaukee Bucks,Oklahoma City Thunder,34,33,26,15,34,19,25,16,06.11.2022
+74,Oklahoma City Thunder,Denver Nuggets,29,28,38,15,42,29,22,29,04.11.2022
+75,Oklahoma City Thunder,Orlando Magic,33,30,22,31,32,34,22,20,02.11.2022
+76,Dallas Mavericks,Oklahoma City Thunder,25,26,20,28,27,19,26,27,"30.10.2022
+AOT"
+77,Oklahoma City Thunder,Los Angeles Clippers,34,19,36,29,24,36,27,23,28.10.2022
+78,Oklahoma City Thunder,Los Angeles Clippers,23,26,35,24,18,25,25,26,26.10.2022
+79,Oklahoma City Thunder,Minnesota Timberwolves,18,26,30,32,31,22,29,34,24.10.2022
+80,Denver Nuggets,Oklahoma City Thunder,28,27,33,34,29,26,30,32,23.10.2022
+81,Minnesota Timberwolves,Oklahoma City Thunder,35,30,22,28,22,30,35,21,20.10.2022
+82,San Antonio Spurs,Oklahoma City Thunder,31,31,29,21,26,36,27,29,14.10.2022
+83,Detroit Pistons,Oklahoma City Thunder,32,25,17,25,28,26,28,33,12.10.2022
+84,Oklahoma City Thunder (Usa),Maccabi Raanana (Isr),33,38,48,25,29,25,23,20,10.10.2022
+85,Oklahoma City Thunder (Usa),Adelaide (Aus),35,38,35,23,16,27,27,28,07.10.2022
+86,Oklahoma City Thunder,Dallas Mavericks,26,26,23,21,28,25,20,25,06.10.2022
+87,Denver Nuggets,Oklahoma City Thunder,21,31,30,19,30,21,39,22,04.10.2022
+88,New Orleans Pelicans,Oklahoma City Thunder,30,21,28,28,21,20,13,17,17.07.2022
+89,Golden State Warriors,Oklahoma City Thunder,18,19,21,24,19,24,20,27,16.07.2022
+90,Oklahoma City Thunder,Sacramento Kings,15,29,24,18,19,13,21,27,14.07.2022
+91,Oklahoma City Thunder,Orlando Magic,31,16,21,16,14,24,22,21,12.07.2022
+92,Houston Rockets,Oklahoma City Thunder,21,24,19,26,25,15,25,23,10.07.2022
+93,Philadelphia 76ers,Oklahoma City Thunder,19,20,20,21,15,24,23,17,07.07.2022
+94,Oklahoma City Thunder,Memphis Grizzlies,20,28,24,15,20,23,14,14,07.07.2022
+95,Utah Jazz,Oklahoma City Thunder,9,23,18,27,29,18,29,22,06.07.2022
+96,Los Angeles Clippers,Oklahoma City Thunder,39,27,29,43,18,33,16,21,11.04.2022
+97,Los Angeles Lakers,Oklahoma City Thunder,27,29,34,30,28,24,30,19,09.04.2022
+98,Utah Jazz,Oklahoma City Thunder,41,30,35,31,31,27,27,16,07.04.2022
+99,Oklahoma City Thunder,Portland Trail Blazers,29,19,19,31,27,27,28,12,06.04.2022
+100,Oklahoma City Thunder,Phoenix Suns,20,32,32,33,27,26,22,21,04.04.2022
+101,Oklahoma City Thunder,Detroit Pistons,20,32,14,35,21,34,28,27,02.04.2022
+102,Oklahoma City Thunder,Atlanta Hawks,24,34,31,29,42,43,30,21,31.03.2022
+103,Portland Trail Blazers,Oklahoma City Thunder,28,33,28,26,34,24,23,34,"29.03.2022
+AOT"
+104,Denver Nuggets,Oklahoma City Thunder,32,26,29,26,25,24,27,31,27.03.2022
+105,Oklahoma City Thunder,Orlando Magic,26,34,24,34,34,19,21,28,24.03.2022
+106,Oklahoma City Thunder,Boston Celtics,21,30,33,39,38,27,43,24,22.03.2022
+107,Orlando Magic,Oklahoma City Thunder,31,14,17,28,25,18,21,21,20.03.2022
+108,Miami Heat,Oklahoma City Thunder,27,42,34,17,26,28,25,29,19.03.2022
+109,San Antonio Spurs,Oklahoma City Thunder,37,31,30,24,29,27,35,29,17.03.2022
+110,Oklahoma City Thunder,Charlotte Hornets,41,23,27,25,29,36,37,32,15.03.2022
+111,Oklahoma City Thunder,Memphis Grizzlies,26,28,25,39,38,23,34,30,14.03.2022
+112,Minnesota Timberwolves,Oklahoma City Thunder,32,42,27,31,21,26,32,23,10.03.2022
+113,Oklahoma City Thunder,Milwaukee Bucks,34,31,28,22,39,37,29,37,09.03.2022
+114,Oklahoma City Thunder,Utah Jazz,24,21,31,27,33,28,30,25,07.03.2022
+115,Oklahoma City Thunder,Minnesota Timberwolves,34,26,27,14,32,45,31,30,05.03.2022
+116,Denver Nuggets,Oklahoma City Thunder,24,33,22,28,24,31,31,33,03.03.2022
+117,Oklahoma City Thunder,Sacramento Kings,32,27,31,20,35,24,40,32,01.03.2022
+118,Indiana Pacers,Oklahoma City Thunder,36,25,32,30,29,40,23,31,"26.02.2022
+AOT"
+119,Oklahoma City Thunder,Phoenix Suns,14,31,32,27,31,17,37,39,25.02.2022
+120,Oklahoma City Thunder,San Antonio Spurs,29,29,23,25,34,39,16,25,17.02.2022
+121,New York Knicks,Oklahoma City Thunder,31,31,32,18,29,32,30,21,"15.02.2022
+AOT"
+122,Chicago Bulls,Oklahoma City Thunder,22,28,31,25,29,25,26,21,13.02.2022
+123,Philadelphia 76ers,Oklahoma City Thunder,24,22,31,23,24,17,20,26,12.02.2022
+124,Oklahoma City Thunder,Toronto Raptors,22,29,21,26,34,25,28,30,10.02.2022
+125,Oklahoma City Thunder,Golden State Warriors,23,23,26,26,20,36,29,25,08.02.2022
+126,Sacramento Kings,Oklahoma City Thunder,36,28,25,24,30,27,22,24,06.02.2022
+127,Portland Trail Blazers,Oklahoma City Thunder,19,31,26,17,21,25,29,21,05.02.2022
+128,Dallas Mavericks,Oklahoma City Thunder,28,23,25,27,30,21,34,18,"03.02.2022
+AOT"
+129,Oklahoma City Thunder,Portland Trail Blazers,19,20,26,33,31,16,14,20,01.02.2022
+130,Oklahoma City Thunder,Indiana Pacers,30,24,26,20,29,22,22,27,"29.01.2022
+AOT"
+131,Oklahoma City Thunder,Chicago Bulls,27,21,30,32,35,23,34,19,25.01.2022
+132,Cleveland Cavaliers,Oklahoma City Thunder,24,23,31,16,22,23,23,19,23.01.2022
+133,Charlotte Hornets,Oklahoma City Thunder,37,32,24,28,20,32,23,23,22.01.2022
+134,San Antonio Spurs,Oklahoma City Thunder,32,37,37,12,22,29,27,18,20.01.2022
+135,Dallas Mavericks,Oklahoma City Thunder,33,20,24,27,24,18,30,30,18.01.2022
+136,Oklahoma City Thunder,Cleveland Cavaliers,32,24,29,17,24,22,37,24,16.01.2022
+137,Brooklyn Nets,Oklahoma City Thunder,26,25,32,26,38,32,30,30,14.01.2022
+138,Washington Wizards,Oklahoma City Thunder,30,28,36,28,31,30,32,25,12.01.2022
+139,Oklahoma City Thunder,Denver Nuggets,23,26,29,17,36,25,19,19,10.01.2022
+140,Oklahoma City Thunder,Minnesota Timberwolves,28,29,23,25,32,41,30,32,08.01.2022
+141,Minnesota Timberwolves,Oklahoma City Thunder,30,19,20,29,10,26,27,27,06.01.2022
+142,Oklahoma City Thunder,Dallas Mavericks,22,17,25,22,26,25,22,22,03.01.2022
+143,Oklahoma City Thunder,New York Knicks,23,28,23,21,20,29,16,15,01.01.2022
+144,Phoenix Suns,Oklahoma City Thunder,33,27,25,30,23,29,29,16,30.12.2021
+145,Sacramento Kings,Oklahoma City Thunder,32,29,26,30,34,23,24,30,29.12.2021
+146,Oklahoma City Thunder,New Orleans Pelicans,32,25,32,28,18,31,32,31,27.12.2021
+147,Phoenix Suns,Oklahoma City Thunder,29,16,37,31,17,31,21,32,24.12.2021
+148,Oklahoma City Thunder,Denver Nuggets,28,32,28,20,18,34,14,28,23.12.2021
+149,Memphis Grizzlies,Oklahoma City Thunder,28,22,22,27,16,31,27,28,21.12.2021
+150,Oklahoma City Thunder,Los Angeles Clippers,24,33,24,23,19,33,27,24,19.12.2021
+151,Oklahoma City Thunder,New Orleans Pelicans,28,23,27,32,24,21,30,38,16.12.2021
+152,Oklahoma City Thunder,Dallas Mavericks,27,19,25,13,28,28,24,23,13.12.2021
+153,Oklahoma City Thunder,Los Angeles Lakers,18,27,23,27,32,32,29,23,11.12.2021
+154,Toronto Raptors,Oklahoma City Thunder,36,28,12,33,26,28,33,23,09.12.2021
+155,Detroit Pistons,Oklahoma City Thunder,37,26,18,22,28,22,22,42,07.12.2021
+156,Memphis Grizzlies,Oklahoma City Thunder,31,41,41,39,16,20,26,17,03.12.2021
+157,Oklahoma City Thunder,Houston Rockets,26,34,21,29,24,29,20,41,02.12.2021
+158,Houston Rockets,Oklahoma City Thunder,28,18,26,30,23,14,23,29,30.11.2021
+159,Oklahoma City Thunder,Washington Wizards,27,27,14,31,25,31,20,25,27.11.2021
+160,Oklahoma City Thunder,Utah Jazz,25,27,28,24,21,28,32,29,25.11.2021
+161,Atlanta Hawks,Oklahoma City Thunder,32,34,27,20,27,33,11,30,23.11.2021
+162,Boston Celtics,Oklahoma City Thunder,30,28,31,22,23,22,29,31,21.11.2021
+163,Milwaukee Bucks,Oklahoma City Thunder,34,24,22,16,24,23,21,21,20.11.2021
+164,Oklahoma City Thunder,Houston Rockets,22,31,27,21,19,22,23,25,18.11.2021
+165,Oklahoma City Thunder,Miami Heat,24,19,24,23,23,20,31,29,16.11.2021
+166,Oklahoma City Thunder,Brooklyn Nets,25,23,26,22,30,31,29,30,15.11.2021
+167,Oklahoma City Thunder,Sacramento Kings,16,32,29,28,23,39,24,17,13.11.2021
+168,New Orleans Pelicans,Oklahoma City Thunder,29,19,23,29,28,28,29,23,11.11.2021
+169,Oklahoma City Thunder,San Antonio Spurs,14,31,34,20,28,27,14,25,08.11.2021
+170,Los Angeles Lakers,Oklahoma City Thunder,25,27,28,24,21,27,24,35,05.11.2021
+171,Los Angeles Clippers,Oklahoma City Thunder,14,26,26,33,23,21,30,20,02.11.2021
+172,Golden State Warriors,Oklahoma City Thunder,28,27,27,21,20,24,14,24,31.10.2021
+173,Oklahoma City Thunder,Los Angeles Lakers,19,37,41,26,41,31,23,20,28.10.2021
+174,Oklahoma City Thunder,Golden State Warriors,34,25,17,22,29,19,33,25,27.10.2021
+175,Oklahoma City Thunder,Philadelphia 76ers,26,25,27,25,36,23,28,28,25.10.2021
+176,Houston Rockets,Oklahoma City Thunder,34,35,31,24,21,26,26,18,23.10.2021
+177,Utah Jazz,Oklahoma City Thunder,27,27,29,24,18,24,21,23,21.10.2021
+178,Oklahoma City Thunder,Denver Nuggets,30,20,33,19,26,30,21,25,"15.10.2021
+AOT"
+179,Oklahoma City Thunder,Denver Nuggets,29,24,31,24,23,25,24,27,14.10.2021
+180,Milwaukee Bucks,Oklahoma City Thunder,48,33,23,26,32,22,27,29,11.10.2021
+181,Oklahoma City Thunder,Charlotte Hornets,18,27,26,26,34,33,24,22,05.10.2021
+182,Oklahoma City Thunder,San Antonio Spurs,26,33,27,30,16,21,27,27,16.08.2021
+183,Oklahoma City Thunder,Indiana Pacers,14,18,18,11,15,28,24,28,14.08.2021
+184,Oklahoma City Thunder,Golden State Warriors,32,20,20,12,27,24,20,23,14.08.2021
+185,New Orleans Pelicans,Oklahoma City Thunder,22,13,22,23,17,18,14,16,12.08.2021
+186,Detroit Pistons,Oklahoma City Thunder,26,12,19,15,14,28,25,9,09.08.2021
+187,Oklahoma City Thunder,Los Angeles Clippers,35,27,24,31,26,34,28,24,17.05.2021
+188,Oklahoma City Thunder,Utah Jazz,20,27,19,27,30,31,31,17,15.05.2021
+189,Sacramento Kings,Oklahoma City Thunder,27,35,41,19,32,33,18,23,12.05.2021
+190,Sacramento Kings,Oklahoma City Thunder,33,38,35,20,25,26,20,27,10.05.2021
+191,Golden State Warriors,Oklahoma City Thunder,37,36,33,30,25,23,19,30,09.05.2021
+192,Golden State Warriors,Oklahoma City Thunder,31,30,27,30,24,25,23,25,07.05.2021
+193,Oklahoma City Thunder,Sacramento Kings,20,26,23,30,25,31,25,22,05.05.2021
+194,Oklahoma City Thunder,Phoenix Suns,33,24,28,35,27,37,34,25,03.05.2021
+195,Oklahoma City Thunder,Indiana Pacers,29,17,24,25,42,40,44,26,02.05.2021
+196,Oklahoma City Thunder,New Orleans Pelicans,20,23,25,27,31,29,19,30,30.04.2021
+197,Boston Celtics,Oklahoma City Thunder,24,25,29,37,29,26,23,41,28.04.2021
+198,Philadelphia 76ers,Oklahoma City Thunder,34,26,33,28,26,19,21,24,27.04.2021
+199,Oklahoma City Thunder,Washington Wizards,35,33,22,19,36,34,30,29,24.04.2021
+200,Indiana Pacers,Oklahoma City Thunder,34,33,26,29,28,29,29,30,22.04.2021
+201,Washington Wizards,Oklahoma City Thunder,38,26,24,31,25,33,21,28,20.04.2021
+202,Toronto Raptors,Oklahoma City Thunder,28,24,29,31,31,28,21,26,19.04.2021
+203,Detroit Pistons,Oklahoma City Thunder,25,31,30,24,32,24,23,25,17.04.2021
+204,Oklahoma City Thunder,Golden State Warriors,32,22,29,26,36,39,50,22,15.04.2021
+205,Utah Jazz,Oklahoma City Thunder,22,33,33,18,31,22,16,27,14.04.2021
+206,Oklahoma City Thunder,Philadelphia 76ers,25,28,23,17,37,29,24,27,11.04.2021
+207,Oklahoma City Thunder,Cleveland Cavaliers,38,23,14,27,38,27,28,36,09.04.2021
+208,Oklahoma City Thunder,Charlotte Hornets,29,22,26,25,32,24,29,28,08.04.2021
+209,Oklahoma City Thunder,Detroit Pistons,19,28,30,31,30,28,35,39,06.04.2021
+210,Portland Trail Blazers,Oklahoma City Thunder,35,30,39,29,19,27,13,26,04.04.2021
+211,Phoenix Suns,Oklahoma City Thunder,43,30,30,37,13,37,26,27,03.04.2021
+212,Oklahoma City Thunder,Toronto Raptors,30,29,28,26,32,35,22,14,01.04.2021
+213,Oklahoma City Thunder,Dallas Mavericks,24,39,20,23,33,38,29,27,30.03.2021
+214,Oklahoma City Thunder,Boston Celtics,25,27,28,14,21,26,29,35,28.03.2021
+215,Oklahoma City Thunder,Memphis Grizzlies,21,32,20,34,26,23,33,34,25.03.2021
+216,Minnesota Timberwolves,Oklahoma City Thunder,22,28,26,27,25,32,26,29,23.03.2021
+217,Houston Rockets,Oklahoma City Thunder,22,40,23,27,31,35,24,24,21.03.2021
+218,Atlanta Hawks,Oklahoma City Thunder,31,30,30,25,21,20,26,26,19.03.2021
+219,Chicago Bulls,Oklahoma City Thunder,42,29,31,21,28,35,16,23,17.03.2021
+220,Oklahoma City Thunder,Memphis Grizzlies,28,27,35,38,31,31,38,22,14.03.2021
+221,Oklahoma City Thunder,New York Knicks,31,23,24,19,22,34,32,31,13.03.2021
+222,Oklahoma City Thunder,Dallas Mavericks,35,27,27,27,19,28,27,34,12.03.2021
+223,San Antonio Spurs,Oklahoma City Thunder,24,37,23,18,27,23,31,26,05.03.2021
+224,Dallas Mavericks,Oklahoma City Thunder,25,24,26,12,23,19,19,17,04.03.2021
+225,Oklahoma City Thunder,Denver Nuggets,20,23,26,27,38,27,34,27,28.02.2021
+226,Oklahoma City Thunder,Atlanta Hawks,31,32,33,22,33,22,25,29,27.02.2021
+227,Oklahoma City Thunder,San Antonio Spurs,28,12,36,26,21,24,28,26,25.02.2021
+228,Oklahoma City Thunder,Miami Heat,21,33,23,17,23,22,34,29,23.02.2021
+229,Cleveland Cavaliers,Oklahoma City Thunder,28,23,24,26,31,31,24,31,22.02.2021
+230,Milwaukee Bucks,Oklahoma City Thunder,16,30,32,20,20,22,20,23,20.02.2021
+231,Memphis Grizzlies,Oklahoma City Thunder,30,27,29,36,31,25,29,28,18.02.2021
+232,Oklahoma City Thunder,Portland Trail Blazers,21,29,29,25,34,30,29,22,17.02.2021
+233,Oklahoma City Thunder,Milwaukee Bucks,24,28,29,33,24,17,40,28,15.02.2021
+234,Denver Nuggets,Oklahoma City Thunder,16,24,30,27,28,25,26,16,13.02.2021
+235,Los Angeles Lakers,Oklahoma City Thunder,23,34,23,25,37,30,17,21,"11.02.2021
+AOT"
+236,Los Angeles Lakers,Oklahoma City Thunder,26,30,20,34,33,27,24,26,"09.02.2021
+AOT"
+237,Oklahoma City Thunder,Minnesota Timberwolves,43,40,13,24,24,38,32,24,07.02.2021
+238,Oklahoma City Thunder,Minnesota Timberwolves,23,32,21,27,25,26,34,21,06.02.2021
+239,Oklahoma City Thunder,Houston Rockets,30,24,27,23,25,18,15,29,04.02.2021

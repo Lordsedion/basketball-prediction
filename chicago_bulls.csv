@@ -1,0 +1,296 @@
+,home_team,away_team,first_quarter_home,second_quarter_home,third_quarter_home,fourth_quarter_home,first_quarter_away,second_quarter_away,third_quarter_away,fourth_quarter_away,event_time
+0,Chicago Bulls,Detroit Pistons,26,23,18,36,25,21,18,17,09.04. 18:00
+1,Dallas Mavericks,Chicago Bulls,29,38,24,21,26,28,31,30,08.04. 01:30
+2,Milwaukee Bucks,Chicago Bulls,28,21,30,26,21,30,25,16,06.04. 00:30
+3,Chicago Bulls,Atlanta Hawks,26,27,27,25,36,29,25,33,05.04. 01:00
+4,Chicago Bulls,Memphis Grizzlies,25,28,40,35,36,32,16,23,02.04. 20:30
+5,Charlotte Hornets,Chicago Bulls,23,23,31,14,31,31,28,31,01.04. 00:00
+6,Chicago Bulls,Los Angeles Lakers,20,31,25,34,31,28,26,36,30.03. 01:00
+7,Los Angeles Clippers,Chicago Bulls,27,35,37,25,32,23,22,35,28.03. 03:30
+8,Los Angeles Lakers,Chicago Bulls,26,29,23,30,29,34,28,27,26.03. 20:30
+9,Portland Trail Blazers,Chicago Bulls,26,19,27,24,26,35,33,30,25.03. 03:00
+10,Chicago Bulls,Philadelphia 76ers,23,25,28,15,36,40,20,20,23.03. 01:00
+11,Philadelphia 76ers,Chicago Bulls,22,18,28,23,17,27,25,22,"21.03. 00:00
+AOT"
+12,Chicago Bulls,Miami Heat,33,37,20,23,19,26,32,22,19.03. 01:00
+13,Chicago Bulls,Minnesota Timberwolves,28,26,26,33,32,27,31,23,"18.03. 01:00
+AOT"
+14,Chicago Bulls,Sacramento Kings,30,28,22,34,25,23,37,32,16.03. 01:00
+15,Houston Rockets,Chicago Bulls,32,23,40,16,22,32,33,32,12.03. 02:00
+16,Denver Nuggets,Chicago Bulls,29,23,24,20,25,26,36,30,09.03. 03:00
+17,Chicago Bulls,Indiana Pacers,35,25,29,33,30,37,28,30,05.03. 21:30
+18,Chicago Bulls,Phoenix Suns,29,35,21,19,40,20,34,31,04.03. 02:00
+19,Detroit Pistons,Chicago Bulls,36,18,32,29,38,31,32,16,02.03. 01:00
+20,Toronto Raptors,Chicago Bulls,24,20,26,34,23,23,26,26,01.03. 01:30
+21,Chicago Bulls,Washington Wizards,25,22,27,28,27,18,22,15,26.02. 21:30
+22,Chicago Bulls,Brooklyn Nets,33,30,34,34,18,11,22,36,25.02. 02:00
+23,Chicago Bulls,Milwaukee Bucks,24,25,24,27,34,27,24,27,17.02. 01:30
+24,Indiana Pacers,Chicago Bulls,15,27,40,35,39,19,28,27,16.02. 01:00
+25,Chicago Bulls,Orlando Magic,21,23,24,23,25,24,27,24,14.02. 02:00
+26,Cleveland Cavaliers,Chicago Bulls,26,14,29,28,29,20,25,15,12.02. 02:00
+27,Brooklyn Nets,Chicago Bulls,19,34,26,37,26,24,34,21,10.02. 01:30
+28,Memphis Grizzlies,Chicago Bulls,26,23,23,32,14,25,36,14,08.02. 02:00
+29,Chicago Bulls,San Antonio Spurs,39,23,28,38,28,31,26,19,07.02. 02:00
+30,Chicago Bulls,Portland Trail Blazers,34,25,33,37,27,43,17,34,05.02. 02:00
+31,Chicago Bulls,Charlotte Hornets,31,22,32,29,29,20,21,28,03.02. 02:00
+32,Chicago Bulls,Los Angeles Clippers,32,26,26,19,20,34,31,23,01.02. 02:00
+33,Orlando Magic,Chicago Bulls,19,28,34,28,25,35,35,33,29.01. 01:00
+34,Charlotte Hornets,Chicago Bulls,32,15,30,34,36,19,24,17,27.01. 01:30
+35,Indiana Pacers,Chicago Bulls,21,25,34,36,33,29,25,23,25.01. 01:00
+36,Chicago Bulls,Atlanta Hawks,17,40,21,33,21,27,30,22,24.01. 02:00
+37,Detroit Pistons,Chicago Bulls,24,32,23,29,31,34,28,33,19.01. 21:00
+38,Chicago Bulls,Golden State Warriors,35,24,33,40,20,42,24,32,15.01. 21:30
+39,Chicago Bulls,Oklahoma City Thunder,31,27,32,20,33,39,19,33,14.01. 02:00
+40,Washington Wizards,Chicago Bulls,25,21,41,13,29,30,21,17,12.01. 01:00
+41,Boston Celtics,Chicago Bulls,28,31,25,23,25,25,23,26,10.01. 01:30
+42,Chicago Bulls,Utah Jazz,28,25,31,42,24,25,40,29,08.01. 02:00
+43,Philadelphia 76ers,Chicago Bulls,30,25,29,28,25,34,40,27,07.01. 01:00
+44,Chicago Bulls,Brooklyn Nets,40,29,19,33,33,26,26,27,05.01. 02:00
+45,Cleveland Cavaliers,Chicago Bulls,27,20,44,39,34,31,31,34,"03.01. 01:00
+AOT"
+46,Chicago Bulls,Cleveland Cavaliers,30,25,22,25,28,32,24,19,01.01. 01:00
+47,Chicago Bulls,Detroit Pistons,33,27,35,37,25,33,34,26,31.12.2022
+48,Chicago Bulls,Milwaukee Bucks,28,29,22,27,32,23,27,24,"29.12.2022
+AOT"
+49,Chicago Bulls,Houston Rockets,26,39,24,29,36,28,35,34,27.12.2022
+50,New York Knicks,Chicago Bulls,22,38,32,25,29,29,31,29,24.12.2022
+51,Atlanta Hawks,Chicago Bulls,25,26,26,31,30,31,20,29,22.12.2022
+52,Miami Heat,Chicago Bulls,21,36,20,26,31,21,36,25,21.12.2022
+53,Minnesota Timberwolves,Chicago Bulls,32,39,42,37,34,31,32,29,19.12.2022
+54,Chicago Bulls,New York Knicks,32,21,22,16,29,29,29,27,17.12.2022
+55,Chicago Bulls,New York Knicks,28,27,33,29,29,35,28,25,"15.12.2022
+AOT"
+56,Atlanta Hawks,Chicago Bulls,22,36,27,25,27,23,28,32,"12.12.2022
+AOT"
+57,Chicago Bulls,Dallas Mavericks,40,42,31,31,30,23,32,30,11.12.2022
+58,Chicago Bulls,Washington Wizards,29,23,28,35,22,27,32,30,08.12.2022
+59,Sacramento Kings,Chicago Bulls,29,33,20,28,27,20,31,23,05.12.2022
+60,Golden State Warriors,Chicago Bulls,35,28,33,23,33,19,30,29,03.12.2022
+61,Phoenix Suns,Chicago Bulls,32,32,42,26,25,18,38,32,01.12.2022
+62,Utah Jazz,Chicago Bulls,27,33,20,27,27,26,33,28,29.11.2022
+63,Oklahoma City Thunder,Chicago Bulls,32,27,28,23,30,29,21,30,"26.11.2022
+AOT"
+64,Milwaukee Bucks,Chicago Bulls,33,29,21,30,32,29,29,28,24.11.2022
+65,Chicago Bulls,Boston Celtics,28,35,32,26,23,27,29,28,22.11.2022
+66,Chicago Bulls,Orlando Magic,24,28,27,28,37,29,21,21,19.11.2022
+67,New Orleans Pelicans,Chicago Bulls,32,26,37,29,28,25,25,32,17.11.2022
+68,Chicago Bulls,Denver Nuggets,20,27,29,27,32,30,35,29,14.11.2022
+69,Chicago Bulls,New Orleans Pelicans,22,28,32,29,22,30,27,36,10.11.2022
+70,Chicago Bulls,Toronto Raptors,30,28,28,25,27,26,17,27,08.11.2022
+71,Toronto Raptors,Chicago Bulls,21,34,28,30,30,19,33,22,07.11.2022
+72,Boston Celtics,Chicago Bulls,26,37,30,30,31,26,30,32,05.11.2022
+73,Chicago Bulls,Charlotte Hornets,27,34,23,22,26,26,18,18,03.11.2022
+74,Brooklyn Nets,Chicago Bulls,27,31,22,19,25,27,25,31,02.11.2022
+75,Chicago Bulls,Philadelphia 76ers,22,34,31,22,37,27,26,24,30.10.2022
+76,San Antonio Spurs,Chicago Bulls,36,26,32,35,29,31,34,30,29.10.2022
+77,Chicago Bulls,Indiana Pacers,38,38,27,21,27,30,36,16,27.10.2022
+78,Chicago Bulls,Boston Celtics,30,35,35,20,39,15,25,23,25.10.2022
+79,Chicago Bulls,Cleveland Cavaliers,25,29,25,17,34,36,23,35,23.10.2022
+80,Washington Wizards,Chicago Bulls,26,30,21,25,30,20,24,26,22.10.2022
+81,Miami Heat,Chicago Bulls,33,26,27,22,28,31,37,20,20.10.2022
+82,Chicago Bulls,Milwaukee Bucks,29,32,28,38,22,37,20,25,12.10.2022
+83,Toronto Raptors,Chicago Bulls,38,19,23,18,27,20,30,38,09.10.2022
+84,Chicago Bulls,Denver Nuggets,27,45,33,26,26,37,25,25,08.10.2022
+85,Chicago Bulls,New Orleans Pelicans,25,28,39,33,40,30,34,25,05.10.2022
+86,Philadelphia 76ers,Chicago Bulls,25,23,34,22,29,29,31,30,17.07.2022
+87,Charlotte Hornets,Chicago Bulls,14,10,23,26,20,22,25,22,14.07.2022
+88,Toronto Raptors,Chicago Bulls,19,18,18,28,24,28,29,12,12.07.2022
+89,New York Knicks,Chicago Bulls,27,32,20,22,11,13,26,19,10.07.2022
+90,Chicago Bulls,Dallas Mavericks,21,12,25,32,17,30,17,26,"08.07.2022
+AOT"
+91,Milwaukee Bucks,Chicago Bulls,34,26,31,25,18,24,26,32,28.04.2022
+92,Chicago Bulls,Milwaukee Bucks,22,19,33,21,25,31,34,29,24.04.2022
+93,Chicago Bulls,Milwaukee Bucks,17,24,18,22,33,27,30,21,23.04.2022
+94,Milwaukee Bucks,Chicago Bulls,28,21,31,30,29,34,24,27,21.04.2022
+95,Milwaukee Bucks,Chicago Bulls,34,17,23,19,21,22,28,15,17.04.2022
+96,Minnesota Timberwolves,Chicago Bulls,21,26,40,33,33,37,27,27,11.04.2022
+97,Chicago Bulls,Charlotte Hornets,30,21,32,34,39,40,32,22,09.04.2022
+98,Chicago Bulls,Boston Celtics,19,32,16,27,32,35,24,26,07.04.2022
+99,Chicago Bulls,Milwaukee Bucks,20,26,36,24,26,32,38,31,06.04.2022
+100,Chicago Bulls,Miami Heat,30,27,22,30,31,35,32,29,03.04.2022
+101,Chicago Bulls,Los Angeles Clippers,22,28,32,36,32,27,33,26,"01.04.2022
+AOT"
+102,Washington Wizards,Chicago Bulls,23,23,27,21,28,23,24,32,30.03.2022
+103,New York Knicks,Chicago Bulls,24,29,28,28,28,22,25,29,29.03.2022
+104,Cleveland Cavaliers,Chicago Bulls,16,19,28,31,28,25,22,23,27.03.2022
+105,New Orleans Pelicans,Chicago Bulls,31,32,23,40,39,23,23,24,25.03.2022
+106,Milwaukee Bucks,Chicago Bulls,33,26,32,35,20,23,26,29,23.03.2022
+107,Chicago Bulls,Toronto Raptors,30,24,30,29,24,31,18,26,22.03.2022
+108,Phoenix Suns,Chicago Bulls,30,31,34,34,27,21,24,30,19.03.2022
+109,Utah Jazz,Chicago Bulls,27,27,35,36,27,22,32,29,17.03.2022
+110,Sacramento Kings,Chicago Bulls,27,36,25,24,17,26,34,26,15.03.2022
+111,Chicago Bulls,Cleveland Cavaliers,24,29,24,24,22,20,24,25,13.03.2022
+112,Detroit Pistons,Chicago Bulls,26,30,35,17,25,28,31,30,10.03.2022
+113,Philadelphia 76ers,Chicago Bulls,37,22,29,33,32,21,24,29,08.03.2022
+114,Chicago Bulls,Milwaukee Bucks,25,28,35,24,25,32,24,37,05.03.2022
+115,Atlanta Hawks,Chicago Bulls,29,27,34,40,35,28,29,32,04.03.2022
+116,Miami Heat,Chicago Bulls,30,25,36,21,21,25,21,32,01.03.2022
+117,Chicago Bulls,Memphis Grizzlies,22,30,27,31,31,28,34,23,27.02.2022
+118,Chicago Bulls,Atlanta Hawks,24,28,30,30,19,31,32,26,25.02.2022
+119,Chicago Bulls,Sacramento Kings,33,32,25,35,30,29,29,30,17.02.2022
+120,Chicago Bulls,San Antonio Spurs,29,30,24,37,27,30,32,20,15.02.2022
+121,Chicago Bulls,Oklahoma City Thunder,22,28,31,25,29,25,26,21,13.02.2022
+122,Chicago Bulls,Minnesota Timberwolves,27,33,32,42,27,32,32,31,12.02.2022
+123,Charlotte Hornets,Chicago Bulls,29,16,31,33,28,30,31,32,10.02.2022
+124,Chicago Bulls,Phoenix Suns,29,20,34,41,36,31,35,25,08.02.2022
+125,Chicago Bulls,Philadelphia 76ers,26,26,29,27,34,27,28,30,06.02.2022
+126,Indiana Pacers,Chicago Bulls,33,29,28,25,40,25,28,29,05.02.2022
+127,Toronto Raptors,Chicago Bulls,26,28,33,27,24,26,31,33,"04.02.2022
+AOT"
+128,Chicago Bulls,Orlando Magic,34,36,33,23,33,30,31,21,02.02.2022
+129,Chicago Bulls,Portland Trail Blazers,29,44,31,26,35,30,27,24,30.01.2022
+130,San Antonio Spurs,Chicago Bulls,29,34,35,33,35,33,23,31,29.01.2022
+131,Chicago Bulls,Toronto Raptors,31,36,24,20,27,23,32,23,27.01.2022
+132,Oklahoma City Thunder,Chicago Bulls,27,21,30,32,35,23,34,19,25.01.2022
+133,Orlando Magic,Chicago Bulls,23,30,32,29,19,18,37,21,24.01.2022
+134,Milwaukee Bucks,Chicago Bulls,24,21,23,26,20,24,25,21,22.01.2022
+135,Chicago Bulls,Cleveland Cavaliers,24,34,29,30,29,20,29,26,20.01.2022
+136,Memphis Grizzlies,Chicago Bulls,20,38,34,27,20,25,27,34,17.01.2022
+137,Boston Celtics,Chicago Bulls,32,22,30,30,22,27,34,29,16.01.2022
+138,Chicago Bulls,Golden State Warriors,28,19,25,24,37,41,34,26,15.01.2022
+139,Chicago Bulls,Brooklyn Nets,31,29,19,33,38,24,39,37,13.01.2022
+140,Chicago Bulls,Detroit Pistons,28,33,36,36,27,25,14,21,12.01.2022
+141,Dallas Mavericks,Chicago Bulls,22,32,29,30,32,23,24,20,10.01.2022
+142,Chicago Bulls,Washington Wizards,37,36,34,23,32,34,29,27,08.01.2022
+143,Chicago Bulls,Orlando Magic,15,30,24,33,21,19,26,32,04.01.2022
+144,Washington Wizards,Chicago Bulls,32,32,24,31,25,27,34,34,02.01.2022
+145,Indiana Pacers,Chicago Bulls,23,27,29,27,25,29,28,26,31.12.2021
+146,Chicago Bulls,Atlanta Hawks,38,36,30,27,36,17,34,30,30.12.2021
+147,Atlanta Hawks,Chicago Bulls,36,27,24,31,31,38,29,32,28.12.2021
+148,Chicago Bulls,Indiana Pacers,33,30,24,26,27,21,31,26,27.12.2021
+149,Chicago Bulls,Houston Rockets,35,38,32,28,26,28,29,35,21.12.2021
+150,Chicago Bulls,Los Angeles Lakers,28,33,22,32,22,37,25,26,20.12.2021
+151,Miami Heat,Chicago Bulls,39,26,21,32,25,27,18,22,12.12.2021
+152,Cleveland Cavaliers,Chicago Bulls,29,23,30,33,24,19,23,26,09.12.2021
+153,Chicago Bulls,Denver Nuggets,18,28,31,32,27,22,22,26,07.12.2021
+154,Brooklyn Nets,Chicago Bulls,34,22,26,25,28,24,27,32,05.12.2021
+155,New York Knicks,Chicago Bulls,19,32,32,32,37,32,20,30,03.12.2021
+156,Chicago Bulls,Charlotte Hornets,30,39,35,29,31,27,27,34,30.11.2021
+157,Chicago Bulls,Miami Heat,20,26,28,30,27,22,23,35,28.11.2021
+158,Orlando Magic,Chicago Bulls,27,19,23,19,27,28,35,33,27.11.2021
+159,Houston Rockets,Chicago Bulls,30,25,35,28,32,32,18,31,25.11.2021
+160,Chicago Bulls,Indiana Pacers,16,30,15,16,31,36,22,20,23.11.2021
+161,Chicago Bulls,New York Knicks,25,26,21,37,20,25,29,29,22.11.2021
+162,Denver Nuggets,Chicago Bulls,30,22,26,30,30,23,35,26,20.11.2021
+163,Portland Trail Blazers,Chicago Bulls,24,24,33,31,33,30,22,22,18.11.2021
+164,Los Angeles Lakers,Chicago Bulls,25,23,25,30,33,24,37,27,16.11.2021
+165,Los Angeles Clippers,Chicago Bulls,17,28,26,19,30,24,23,23,15.11.2021
+166,Golden State Warriors,Chicago Bulls,23,28,35,33,29,16,17,31,13.11.2021
+167,Chicago Bulls,Dallas Mavericks,32,29,34,22,33,21,26,27,11.11.2021
+168,Chicago Bulls,Brooklyn Nets,35,16,25,42,27,30,21,17,09.11.2021
+169,Chicago Bulls,Philadelphia 76ers,21,26,30,28,22,35,27,30,07.11.2021
+170,Philadelphia 76ers,Chicago Bulls,29,29,26,19,19,25,28,26,04.11.2021
+171,Boston Celtics,Chicago Bulls,35,32,36,11,34,25,30,39,02.11.2021
+172,Chicago Bulls,Utah Jazz,25,29,25,28,24,33,15,27,31.10.2021
+173,Chicago Bulls,New York Knicks,25,26,22,30,27,28,27,22,29.10.2021
+174,Toronto Raptors,Chicago Bulls,24,27,29,28,24,37,31,19,26.10.2021
+175,Chicago Bulls,Detroit Pistons,31,23,25,18,28,15,11,28,24.10.2021
+176,Chicago Bulls,New Orleans Pelicans,28,37,27,36,17,30,28,37,23.10.2021
+177,Detroit Pistons,Chicago Bulls,20,24,25,19,14,26,31,23,21.10.2021
+178,Chicago Bulls,Memphis Grizzlies,28,27,27,36,35,18,28,24,16.10.2021
+179,Cleveland Cavaliers,Chicago Bulls,27,25,23,26,28,24,27,23,11.10.2021
+180,Chicago Bulls,New Orleans Pelicans,30,33,33,25,17,21,19,28,09.10.2021
+181,Chicago Bulls,Cleveland Cavaliers,33,36,44,18,27,21,24,23,06.10.2021
+182,Chicago Bulls,Charlotte Hornets,17,28,31,23,13,15,22,24,17.08.2021
+183,Chicago Bulls,Memphis Grizzlies,19,22,31,19,24,29,16,27,16.08.2021
+184,Minnesota Timberwolves,Chicago Bulls,15,15,28,20,14,18,15,12,12.08.2021
+185,San Antonio Spurs,Chicago Bulls,26,26,17,20,14,23,29,26,11.08.2021
+186,Chicago Bulls,New Orleans Pelicans,26,21,19,11,23,21,25,25,09.08.2021
+187,Chicago Bulls,Milwaukee Bucks,33,22,36,27,23,31,31,27,17.05.2021
+188,Brooklyn Nets,Chicago Bulls,28,33,18,26,29,22,20,20,15.05.2021
+189,Chicago Bulls,Toronto Raptors,30,36,22,26,27,20,29,26,14.05.2021
+190,Chicago Bulls,Brooklyn Nets,23,28,23,33,32,32,29,22,12.05.2021
+191,Detroit Pistons,Chicago Bulls,18,21,29,28,28,29,26,25,10.05.2021
+192,Chicago Bulls,Boston Celtics,30,30,34,27,28,18,28,25,08.05.2021
+193,Charlotte Hornets,Chicago Bulls,24,29,21,25,34,25,37,24,07.05.2021
+194,Chicago Bulls,Philadelphia 76ers,20,23,20,31,34,26,23,23,04.05.2021
+195,Atlanta Hawks,Chicago Bulls,31,23,28,26,26,37,12,22,02.05.2021
+196,Chicago Bulls,Milwaukee Bucks,16,28,19,35,28,24,28,28,01.05.2021
+197,New York Knicks,Chicago Bulls,32,20,24,37,19,29,27,19,29.04.2021
+198,Miami Heat,Chicago Bulls,26,27,29,20,20,32,24,34,27.04.2021
+199,Miami Heat,Chicago Bulls,33,28,19,26,18,23,22,38,25.04.2021
+200,Chicago Bulls,Charlotte Hornets,34,24,30,20,23,21,23,24,23.04.2021
+201,Cleveland Cavaliers,Chicago Bulls,34,27,38,22,12,32,28,33,22.04.2021
+202,Boston Celtics,Chicago Bulls,30,18,18,30,24,18,32,28,20.04.2021
+203,Chicago Bulls,Cleveland Cavaliers,29,18,33,26,24,25,21,26,18.04.2021
+204,Chicago Bulls,Memphis Grizzlies,33,24,28,30,33,24,37,32,17.04.2021
+205,Chicago Bulls,Orlando Magic,22,31,19,34,32,22,39,22,15.04.2021
+206,Memphis Grizzlies,Chicago Bulls,22,26,22,31,22,25,27,16,13.04.2021
+207,Minnesota Timberwolves,Chicago Bulls,29,37,25,30,26,29,32,30,12.04.2021
+208,Atlanta Hawks,Chicago Bulls,25,28,33,34,33,33,18,24,10.04.2021
+209,Toronto Raptors,Chicago Bulls,27,24,28,34,33,31,33,25,09.04.2021
+210,Indiana Pacers,Chicago Bulls,28,21,25,23,30,32,35,16,07.04.2021
+211,Chicago Bulls,Brooklyn Nets,25,32,32,26,28,18,26,35,04.04.2021
+212,Utah Jazz,Chicago Bulls,26,32,30,25,25,24,24,33,03.04.2021
+213,Phoenix Suns,Chicago Bulls,39,28,27,27,37,21,28,30,01.04.2021
+214,Golden State Warriors,Chicago Bulls,34,31,31,20,29,31,25,17,30.03.2021
+215,San Antonio Spurs,Chicago Bulls,33,32,31,24,20,19,34,31,28.03.2021
+216,Chicago Bulls,Cleveland Cavaliers,25,30,17,22,25,28,25,25,25.03.2021
+217,Chicago Bulls,Utah Jazz,23,19,29,24,29,27,33,31,23.03.2021
+218,Detroit Pistons,Chicago Bulls,25,20,20,21,20,26,29,25,22.03.2021
+219,Denver Nuggets,Chicago Bulls,20,27,34,35,30,25,34,27,"20.03.2021
+AOT"
+220,Chicago Bulls,San Antonio Spurs,31,27,22,19,17,23,27,39,18.03.2021
+221,Chicago Bulls,Oklahoma City Thunder,42,29,31,21,28,35,16,23,17.03.2021
+222,Chicago Bulls,Toronto Raptors,28,30,27,33,22,27,24,22,15.03.2021
+223,Chicago Bulls,Miami Heat,21,21,26,22,29,13,28,31,13.03.2021
+224,Chicago Bulls,Philadelphia 76ers,23,34,28,20,30,34,33,30,12.03.2021
+225,New Orleans Pelicans,Chicago Bulls,25,20,34,45,26,38,32,32,04.03.2021
+226,Chicago Bulls,Denver Nuggets,25,30,32,25,37,25,27,29,02.03.2021
+227,Chicago Bulls,Phoenix Suns,26,32,23,16,26,20,28,32,27.02.2021
+228,Chicago Bulls,Minnesota Timberwolves,32,36,28,23,34,24,32,29,"25.02.2021
+AOT"
+229,Houston Rockets,Chicago Bulls,24,24,26,26,29,25,46,20,23.02.2021
+230,Chicago Bulls,Sacramento Kings,28,40,27,27,21,37,25,31,21.02.2021
+231,Philadelphia 76ers,Chicago Bulls,32,26,27,27,30,23,26,26,20.02.2021
+232,Chicago Bulls,Detroit Pistons,27,16,27,35,35,26,12,29,18.02.2021
+233,Indiana Pacers,Chicago Bulls,21,23,26,35,24,25,30,26,"16.02.2021
+AOT"
+234,Chicago Bulls,Los Angeles Clippers,25,29,24,28,30,28,32,35,13.02.2021
+235,Chicago Bulls,New Orleans Pelicans,44,22,40,23,34,40,14,28,11.02.2021
+236,Chicago Bulls,Washington Wizards,27,21,30,23,24,34,25,22,09.02.2021
+237,Orlando Magic,Chicago Bulls,31,12,21,28,31,30,34,23,07.02.2021
+238,Orlando Magic,Chicago Bulls,33,33,26,31,31,25,25,38,06.02.2021
+239,Chicago Bulls,New York Knicks,17,35,24,27,34,29,28,16,04.02.2021
+240,Chicago Bulls,New York Knicks,32,27,25,26,27,28,26,21,02.02.2021
+241,Chicago Bulls,Portland Trail Blazers,34,19,33,36,32,32,29,30,31.01.2021
+242,Chicago Bulls,Boston Celtics,25,25,26,27,33,27,31,28,26.01.2021
+243,Chicago Bulls,Los Angeles Lakers,17,16,33,24,29,34,20,18,24.01.2021
+244,Charlotte Hornets,Chicago Bulls,29,24,30,27,30,31,34,28,23.01.2021
+245,Chicago Bulls,Houston Rockets,28,36,29,32,16,36,34,34,19.01.2021
+246,Dallas Mavericks,Chicago Bulls,23,29,23,26,27,40,22,28,17.01.2021
+247,Oklahoma City Thunder,Chicago Bulls,22,28,37,31,30,38,27,23,"16.01.2021
+AOT"
+248,Los Angeles Clippers,Chicago Bulls,22,30,42,36,31,28,35,33,10.01.2021
+249,Los Angeles Lakers,Chicago Bulls,28,31,33,25,33,25,30,27,09.01.2021
+250,Sacramento Kings,Chicago Bulls,28,34,31,35,25,34,34,31,07.01.2021
+251,Portland Trail Blazers,Chicago Bulls,39,15,31,23,21,24,36,30,06.01.2021
+252,Chicago Bulls,Dallas Mavericks,31,28,27,32,31,29,21,27,04.01.2021
+253,Milwaukee Bucks,Chicago Bulls,27,35,34,30,21,19,35,21,02.01.2021
+254,Washington Wizards,Chicago Bulls,41,27,32,30,35,36,36,26,31.12.2020
+255,Washington Wizards,Chicago Bulls,26,20,27,34,31,21,31,32,30.12.2020
+256,Chicago Bulls,Golden State Warriors,27,29,41,31,24,36,33,36,28.12.2020
+257,Chicago Bulls,Indiana Pacers,28,28,15,35,27,39,33,26,27.12.2020
+258,Chicago Bulls,Atlanta Hawks,29,30,20,25,42,41,28,13,24.12.2020
+259,Oklahoma City Thunder,Chicago Bulls,29,35,26,13,27,22,22,34,19.12.2020
+260,Oklahoma City Thunder,Chicago Bulls,26,20,23,34,30,29,35,30,17.12.2020
+261,Chicago Bulls,Houston Rockets,30,23,20,31,31,25,23,12,14.12.2020
+262,Chicago Bulls,Houston Rockets,26,22,24,32,37,31,34,23,12.12.2020
+263,Chicago Bulls,Cleveland Cavaliers,27,27,24,30,29,23,26,25,11.03.2020
+264,Brooklyn Nets,Chicago Bulls,22,36,19,33,23,27,20,37,08.03.2020
+265,Chicago Bulls,Indiana Pacers,25,21,26,30,29,33,27,19,07.03.2020
+266,Minnesota Timberwolves,Chicago Bulls,22,33,33,27,29,29,21,29,05.03.2020
+267,Chicago Bulls,Dallas Mavericks,19,29,33,28,29,29,17,32,03.03.2020
+268,New York Knicks,Chicago Bulls,31,35,23,36,25,28,33,29,29.02.2020
+269,Chicago Bulls,Oklahoma City Thunder,28,27,38,29,36,36,19,33,26.02.2020
+270,Chicago Bulls,Washington Wizards,35,38,28,25,31,27,27,32,24.02.2020
+271,Chicago Bulls,Phoenix Suns,24,33,23,24,22,25,36,29,23.02.2020
+272,Chicago Bulls,Charlotte Hornets,20,24,29,20,33,27,19,24,21.02.2020
+273,Washington Wizards,Chicago Bulls,36,33,31,26,26,36,20,32,12.02.2020
+274,Philadelphia 76ers,Chicago Bulls,38,22,23,35,25,30,28,28,10.02.2020
+275,Chicago Bulls,New Orleans Pelicans,25,37,19,38,32,40,31,22,07.02.2020
+276,Toronto Raptors,Chicago Bulls,32,28,35,34,29,34,22,17,02.02.2020
+277,Brooklyn Nets,Chicago Bulls,35,38,30,30,23,34,39,22,01.02.2020
+278,Indiana Pacers,Chicago Bulls,25,30,25,20,24,27,29,20,"30.01.2020
+AOT"
+279,Chicago Bulls,San Antonio Spurs,21,29,25,35,28,20,37,24,28.01.2020

@@ -1,0 +1,292 @@
+,home_team,away_team,first_quarter_home,second_quarter_home,third_quarter_home,fourth_quarter_home,first_quarter_away,second_quarter_away,third_quarter_away,fourth_quarter_away,event_time
+0,Brooklyn Nets,Philadelphia 76ers,21,32,39,13,36,25,39,34,09.04. 18:00
+1,Brooklyn Nets,Orlando Magic,27,31,20,23,23,16,23,22,08.04. 00:30
+2,Detroit Pistons,Brooklyn Nets,34,23,33,18,47,27,22,27,06.04. 00:00
+3,Brooklyn Nets,Minnesota Timberwolves,24,30,24,24,31,20,26,30,05.04. 00:30
+4,Brooklyn Nets,Utah Jazz,30,23,32,26,17,25,26,42,02.04. 20:30
+5,Brooklyn Nets,Atlanta Hawks,25,34,42,23,33,22,24,28,01.04. 00:30
+6,Brooklyn Nets,Houston Rockets,30,24,32,37,25,30,32,27,30.03. 00:30
+7,Orlando Magic,Brooklyn Nets,24,36,32,27,25,26,23,32,26.03. 23:00
+8,Miami Heat,Brooklyn Nets,36,33,18,13,28,37,39,25,26.03. 01:00
+9,Brooklyn Nets,Cleveland Cavaliers,33,28,30,23,31,29,25,31,24.03. 00:30
+10,Brooklyn Nets,Cleveland Cavaliers,30,25,23,31,23,38,33,21,22.03. 00:30
+11,Brooklyn Nets,Denver Nuggets,21,27,23,31,33,30,28,17,19.03. 20:30
+12,Brooklyn Nets,Sacramento Kings,24,17,30,25,24,30,28,19,17.03. 00:30
+13,Oklahoma City Thunder,Brooklyn Nets,24,28,38,31,33,29,20,25,15.03. 01:00
+14,Denver Nuggets,Brooklyn Nets,30,39,18,33,30,31,37,24,12.03. 20:30
+15,Minnesota Timberwolves,Brooklyn Nets,33,35,20,26,26,34,37,17,"11.03. 02:00
+AOT"
+16,Milwaukee Bucks,Brooklyn Nets,37,27,23,31,20,27,33,33,10.03. 02:00
+17,Houston Rockets,Brooklyn Nets,32,22,24,18,27,32,33,26,08.03. 02:00
+18,Brooklyn Nets,Charlotte Hornets,36,34,16,16,21,20,21,24,06.03. 00:00
+19,Boston Celtics,Brooklyn Nets,37,27,20,21,15,40,34,26,04.03. 01:30
+20,New York Knicks,Brooklyn Nets,47,34,29,32,29,28,30,31,02.03. 01:30
+21,Brooklyn Nets,Milwaukee Bucks,34,28,23,19,22,30,39,27,01.03. 01:30
+22,Atlanta Hawks,Brooklyn Nets,37,27,33,32,29,28,37,33,26.02. 21:00
+23,Chicago Bulls,Brooklyn Nets,33,30,34,34,18,11,22,36,25.02. 02:00
+24,Brooklyn Nets,Miami Heat,26,26,31,33,25,31,24,25,16.02. 01:30
+25,New York Knicks,Brooklyn Nets,32,26,35,31,26,35,22,23,14.02. 01:30
+26,Brooklyn Nets,Philadelphia 76ers,28,32,22,16,26,26,24,25,12.02. 00:00
+27,Brooklyn Nets,Chicago Bulls,19,34,26,37,26,24,34,21,10.02. 01:30
+28,Brooklyn Nets,Phoenix Suns,25,26,30,31,24,33,30,29,08.02. 01:30
+29,Brooklyn Nets,Los Angeles Clippers,27,26,35,28,29,26,36,33,07.02. 01:30
+30,Brooklyn Nets,Washington Wizards,25,30,37,33,44,29,26,24,05.02. 00:00
+31,Boston Celtics,Brooklyn Nets,46,33,31,29,16,29,27,24,02.02. 01:30
+32,Brooklyn Nets,Los Angeles Lakers,29,29,27,36,16,30,36,22,31.01. 01:30
+33,Brooklyn Nets,New York Knicks,28,34,26,34,22,27,32,34,28.01. 23:30
+34,Brooklyn Nets,Detroit Pistons,27,32,31,32,30,28,43,29,27.01. 01:30
+35,Philadelphia 76ers,Brooklyn Nets,41,34,32,30,41,24,33,35,26.01. 01:30
+36,Golden State Warriors,Brooklyn Nets,33,39,18,26,28,32,26,34,23.01. 02:30
+37,Utah Jazz,Brooklyn Nets,22,33,28,23,28,23,32,34,21.01. 03:00
+38,Phoenix Suns,Brooklyn Nets,35,30,29,23,29,22,23,38,20.01. 04:00
+39,San Antonio Spurs,Brooklyn Nets,27,24,25,30,15,36,17,30,18.01. 02:00
+40,Brooklyn Nets,Oklahoma City Thunder,24,26,30,22,28,20,27,37,16.01. 00:00
+41,Brooklyn Nets,Boston Celtics,31,26,25,16,29,31,24,25,13.01. 01:30
+42,Miami Heat,Brooklyn Nets,30,34,18,19,31,35,13,23,09.01. 00:00
+43,New Orleans Pelicans,Brooklyn Nets,28,36,21,17,27,26,35,20,07.01. 01:30
+44,Chicago Bulls,Brooklyn Nets,40,29,19,33,33,26,26,27,05.01. 02:00
+45,Brooklyn Nets,San Antonio Spurs,37,37,34,31,25,22,32,24,03.01. 01:30
+46,Charlotte Hornets,Brooklyn Nets,22,27,30,27,32,29,36,26,01.01. 01:00
+47,Atlanta Hawks,Brooklyn Nets,30,33,17,27,31,25,27,25,29.12.2022
+48,Cleveland Cavaliers,Brooklyn Nets,22,27,30,38,34,31,26,34,27.12.2022
+49,Brooklyn Nets,Milwaukee Bucks,36,24,25,33,29,18,28,25,24.12.2022
+50,Brooklyn Nets,Golden State Warriors,46,45,18,34,17,34,28,34,22.12.2022
+51,Detroit Pistons,Brooklyn Nets,35,36,25,25,21,33,44,26,19.12.2022
+52,Toronto Raptors,Brooklyn Nets,29,33,22,32,19,33,36,31,17.12.2022
+53,Washington Wizards,Brooklyn Nets,25,30,28,17,29,33,32,18,13.12.2022
+54,Indiana Pacers,Brooklyn Nets,38,38,24,33,40,29,26,41,11.12.2022
+55,Brooklyn Nets,Atlanta Hawks,36,32,28,24,30,34,26,26,10.12.2022
+56,Brooklyn Nets,Charlotte Hornets,38,35,23,26,28,27,32,29,08.12.2022
+57,Brooklyn Nets,Boston Celtics,27,23,19,23,35,27,13,28,05.12.2022
+58,Brooklyn Nets,Toronto Raptors,41,31,21,21,17,32,23,33,03.12.2022
+59,Brooklyn Nets,Washington Wizards,29,28,23,33,28,25,24,30,01.12.2022
+60,Brooklyn Nets,Orlando Magic,23,29,35,22,28,23,25,26,29.11.2022
+61,Brooklyn Nets,Portland Trail Blazers,31,27,26,27,24,33,23,17,27.11.2022
+62,Indiana Pacers,Brooklyn Nets,23,34,31,40,35,30,29,23,26.11.2022
+63,Toronto Raptors,Brooklyn Nets,26,25,25,22,38,14,39,21,24.11.2022
+64,Philadelphia 76ers,Brooklyn Nets,33,30,22,30,26,31,25,24,23.11.2022
+65,Brooklyn Nets,Memphis Grizzlies,28,29,39,31,29,33,31,22,21.11.2022
+66,Portland Trail Blazers,Brooklyn Nets,28,33,21,25,28,29,28,24,18.11.2022
+67,Sacramento Kings,Brooklyn Nets,36,37,42,38,30,24,28,39,16.11.2022
+68,Los Angeles Lakers,Brooklyn Nets,26,29,25,36,22,24,31,26,14.11.2022
+69,Los Angeles Clippers,Brooklyn Nets,19,31,21,24,24,30,21,35,12.11.2022
+70,Brooklyn Nets,New York Knicks,38,31,23,20,22,22,27,14,10.11.2022
+71,Dallas Mavericks,Brooklyn Nets,29,24,19,24,34,16,23,21,08.11.2022
+72,Charlotte Hornets,Brooklyn Nets,21,23,26,24,30,22,17,29,06.11.2022
+73,Washington Wizards,Brooklyn Nets,28,29,13,16,38,31,27,32,05.11.2022
+74,Brooklyn Nets,Chicago Bulls,27,31,22,19,25,27,25,31,02.11.2022
+75,Brooklyn Nets,Indiana Pacers,33,28,31,24,18,36,31,24,01.11.2022
+76,Brooklyn Nets,Indiana Pacers,26,36,28,26,26,37,29,33,30.10.2022
+77,Brooklyn Nets,Dallas Mavericks,23,36,25,28,30,31,29,22,"28.10.2022
+AOT"
+78,Milwaukee Bucks,Brooklyn Nets,25,18,35,32,20,35,21,23,27.10.2022
+79,Memphis Grizzlies,Brooklyn Nets,39,25,45,25,34,35,28,27,25.10.2022
+80,Brooklyn Nets,Toronto Raptors,28,21,29,31,24,28,27,26,22.10.2022
+81,Brooklyn Nets,New Orleans Pelicans,14,36,28,30,32,26,40,32,20.10.2022
+82,Minnesota Timberwolves,Brooklyn Nets,22,27,27,26,28,37,22,25,15.10.2022
+83,Milwaukee Bucks,Brooklyn Nets,25,26,24,22,33,26,33,15,13.10.2022
+84,Brooklyn Nets,Miami Heat,18,25,14,23,25,36,22,26,07.10.2022
+85,Brooklyn Nets,Philadelphia 76ers,26,36,24,22,42,23,36,26,04.10.2022
+86,Boston Celtics,Brooklyn Nets,22,30,17,26,23,23,26,30,17.07.2022
+87,Minnesota Timberwolves,Brooklyn Nets,20,22,25,16,25,30,24,23,15.07.2022
+88,Brooklyn Nets,Memphis Grizzlies,22,19,26,17,34,31,23,32,12.07.2022
+89,Brooklyn Nets,Philadelphia 76ers,22,22,23,24,21,21,24,18,10.07.2022
+90,Milwaukee Bucks,Brooklyn Nets,21,23,28,22,20,20,15,35,09.07.2022
+91,Brooklyn Nets,Boston Celtics,26,24,28,34,30,28,32,26,26.04.2022
+92,Brooklyn Nets,Boston Celtics,25,25,22,31,30,23,28,28,24.04.2022
+93,Boston Celtics,Brooklyn Nets,24,31,30,29,33,32,25,17,21.04.2022
+94,Boston Celtics,Brooklyn Nets,29,32,35,19,28,33,24,29,17.04.2022
+95,Brooklyn Nets,Cleveland Cavaliers,40,17,28,30,20,23,30,35,13.04.2022
+96,Brooklyn Nets,Indiana Pacers,41,35,27,31,29,31,34,32,10.04.2022
+97,Brooklyn Nets,Cleveland Cavaliers,34,28,21,35,19,35,34,19,09.04.2022
+98,New York Knicks,Brooklyn Nets,29,38,15,16,25,25,22,38,07.04.2022
+99,Brooklyn Nets,Houston Rockets,30,34,26,28,25,22,27,31,06.04.2022
+100,Atlanta Hawks,Brooklyn Nets,28,37,29,28,30,20,37,28,03.04.2022
+101,Brooklyn Nets,Milwaukee Bucks,30,30,26,24,23,33,31,23,"01.04.2022
+AOT"
+102,Brooklyn Nets,Detroit Pistons,33,25,38,34,35,29,30,29,30.03.2022
+103,Brooklyn Nets,Charlotte Hornets,32,28,29,21,26,30,37,26,28.03.2022
+104,Miami Heat,Brooklyn Nets,25,21,22,27,27,40,29,14,27.03.2022
+105,Memphis Grizzlies,Brooklyn Nets,40,36,27,29,32,30,42,16,24.03.2022
+106,Brooklyn Nets,Utah Jazz,25,28,38,23,28,23,24,31,22.03.2022
+107,Brooklyn Nets,Portland Trail Blazers,34,28,39,27,33,42,26,22,19.03.2022
+108,Brooklyn Nets,Dallas Mavericks,30,31,30,20,23,35,21,34,17.03.2022
+109,Orlando Magic,Brooklyn Nets,30,26,33,19,48,38,30,34,16.03.2022
+110,Brooklyn Nets,New York Knicks,35,27,26,22,30,30,23,24,13.03.2022
+111,Philadelphia 76ers,Brooklyn Nets,23,28,19,30,40,32,30,27,11.03.2022
+112,Charlotte Hornets,Brooklyn Nets,20,23,41,37,34,35,31,32,09.03.2022
+113,Boston Celtics,Brooklyn Nets,29,29,31,37,34,26,30,30,06.03.2022
+114,Brooklyn Nets,Miami Heat,35,32,17,23,23,37,28,25,04.03.2022
+115,Toronto Raptors,Brooklyn Nets,32,23,26,28,25,34,30,19,02.03.2022
+116,Brooklyn Nets,Toronto Raptors,27,21,21,28,42,29,29,33,01.03.2022
+117,Milwaukee Bucks,Brooklyn Nets,32,27,34,30,25,28,43,30,27.02.2022
+118,Brooklyn Nets,Boston Celtics,22,30,22,32,35,32,30,32,25.02.2022
+119,Brooklyn Nets,Washington Wizards,28,23,27,25,26,29,23,39,18.02.2022
+120,New York Knicks,Brooklyn Nets,38,27,22,19,18,26,29,38,17.02.2022
+121,Brooklyn Nets,Sacramento Kings,35,20,25,29,24,24,18,19,15.02.2022
+122,Miami Heat,Brooklyn Nets,26,38,27,24,26,32,18,35,13.02.2022
+123,Washington Wizards,Brooklyn Nets,24,31,31,27,27,32,19,34,11.02.2022
+124,Brooklyn Nets,Boston Celtics,16,27,28,20,35,34,28,29,09.02.2022
+125,Denver Nuggets,Brooklyn Nets,39,37,31,17,40,35,16,13,06.02.2022
+126,Utah Jazz,Brooklyn Nets,33,35,37,20,24,23,26,29,05.02.2022
+127,Sacramento Kings,Brooklyn Nets,23,31,29,29,32,30,24,15,03.02.2022
+128,Phoenix Suns,Brooklyn Nets,39,26,26,30,29,29,24,29,02.02.2022
+129,Golden State Warriors,Brooklyn Nets,31,23,24,32,20,27,29,30,30.01.2022
+130,Brooklyn Nets,Denver Nuggets,28,37,26,27,29,25,42,28,27.01.2022
+131,Brooklyn Nets,Los Angeles Lakers,25,28,25,18,33,29,30,14,26.01.2022
+132,Minnesota Timberwolves,Brooklyn Nets,37,35,30,34,36,26,33,30,24.01.2022
+133,San Antonio Spurs,Brooklyn Nets,26,25,23,28,24,26,29,38,22.01.2022
+134,Washington Wizards,Brooklyn Nets,28,34,24,32,33,41,23,22,20.01.2022
+135,Cleveland Cavaliers,Brooklyn Nets,30,35,22,27,31,28,29,19,17.01.2022
+136,Brooklyn Nets,New Orleans Pelicans,32,37,26,25,22,19,36,28,16.01.2022
+137,Brooklyn Nets,Oklahoma City Thunder,26,25,32,26,38,32,30,30,14.01.2022
+138,Chicago Bulls,Brooklyn Nets,31,29,19,33,38,24,39,37,13.01.2022
+139,Portland Trail Blazers,Brooklyn Nets,33,22,32,27,26,36,19,27,11.01.2022
+140,Brooklyn Nets,San Antonio Spurs,32,28,31,22,32,19,38,24,"09.01.2022
+AOT"
+141,Brooklyn Nets,Milwaukee Bucks,21,28,31,29,29,31,38,23,08.01.2022
+142,Indiana Pacers,Brooklyn Nets,37,36,28,20,32,28,34,35,06.01.2022
+143,Brooklyn Nets,Memphis Grizzlies,24,23,26,31,29,27,40,22,04.01.2022
+144,Brooklyn Nets,Los Angeles Clippers,30,23,34,29,29,20,31,40,02.01.2022
+145,Brooklyn Nets,Philadelphia 76ers,31,23,28,20,39,16,29,26,31.12.2021
+146,Los Angeles Clippers,Brooklyn Nets,33,22,26,27,38,33,30,23,28.12.2021
+147,Los Angeles Lakers,Brooklyn Nets,23,39,20,33,38,28,36,20,26.12.2021
+148,Brooklyn Nets,Orlando Magic,17,27,22,27,26,24,24,26,19.12.2021
+149,Brooklyn Nets,Philadelphia 76ers,39,27,19,29,25,23,31,26,17.12.2021
+150,Brooklyn Nets,Toronto Raptors,33,33,25,29,32,24,44,20,"15.12.2021
+AOT"
+151,Detroit Pistons,Brooklyn Nets,24,33,34,13,31,29,26,30,13.12.2021
+152,Atlanta Hawks,Brooklyn Nets,26,29,36,14,26,26,37,24,11.12.2021
+153,Houston Rockets,Brooklyn Nets,30,37,23,24,23,29,21,31,09.12.2021
+154,Dallas Mavericks,Brooklyn Nets,27,35,24,13,21,29,25,27,08.12.2021
+155,Brooklyn Nets,Chicago Bulls,34,22,26,25,28,24,27,32,05.12.2021
+156,Brooklyn Nets,Minnesota Timberwolves,27,32,27,24,34,21,30,20,04.12.2021
+157,Brooklyn Nets,New York Knicks,33,27,28,24,28,33,23,26,01.12.2021
+158,Brooklyn Nets,Phoenix Suns,20,26,26,35,34,22,34,23,28.11.2021
+159,Boston Celtics,Brooklyn Nets,22,27,27,28,29,33,35,26,25.11.2021
+160,Cleveland Cavaliers,Brooklyn Nets,27,36,19,30,24,28,32,33,23.11.2021
+161,Brooklyn Nets,Orlando Magic,25,28,37,25,41,21,21,30,20.11.2021
+162,Brooklyn Nets,Cleveland Cavaliers,31,31,19,28,25,16,32,26,18.11.2021
+163,Brooklyn Nets,Golden State Warriors,34,24,18,23,31,32,35,19,17.11.2021
+164,Oklahoma City Thunder,Brooklyn Nets,25,23,26,22,30,31,29,30,15.11.2021
+165,New Orleans Pelicans,Brooklyn Nets,25,34,24,29,33,33,29,25,13.11.2021
+166,Orlando Magic,Brooklyn Nets,23,30,22,15,28,37,29,29,11.11.2021
+167,Chicago Bulls,Brooklyn Nets,35,16,25,42,27,30,21,17,09.11.2021
+168,Toronto Raptors,Brooklyn Nets,26,34,17,26,29,24,35,28,07.11.2021
+169,Detroit Pistons,Brooklyn Nets,23,16,23,28,28,11,39,18,06.11.2021
+170,Brooklyn Nets,Atlanta Hawks,35,26,34,22,28,31,20,29,04.11.2021
+171,Brooklyn Nets,Detroit Pistons,28,36,32,21,25,24,25,17,01.11.2021
+172,Brooklyn Nets,Indiana Pacers,26,32,27,20,38,17,19,24,30.10.2021
+173,Brooklyn Nets,Miami Heat,22,29,23,19,29,20,32,25,28.10.2021
+174,Brooklyn Nets,Washington Wizards,38,21,23,22,20,22,22,26,26.10.2021
+175,Brooklyn Nets,Charlotte Hornets,31,27,20,17,27,23,29,32,24.10.2021
+176,Philadelphia 76ers,Brooklyn Nets,34,28,29,18,28,27,30,29,23.10.2021
+177,Milwaukee Bucks,Brooklyn Nets,37,29,31,30,25,34,26,19,20.10.2021
+178,Brooklyn Nets,Minnesota Timberwolves,27,30,27,23,30,19,26,26,15.10.2021
+179,Philadelphia 76ers,Brooklyn Nets,37,31,32,15,25,24,24,31,12.10.2021
+180,Brooklyn Nets,Milwaukee Bucks,32,24,33,30,26,34,28,27,09.10.2021
+181,Los Angeles Lakers,Brooklyn Nets,19,30,32,16,25,32,27,39,03.10.2021
+182,Toronto Raptors,Brooklyn Nets,22,8,25,31,17,8,22,25,17.08.2021
+183,San Antonio Spurs,Brooklyn Nets,30,23,23,24,20,28,29,27,15.08.2021
+184,Brooklyn Nets,Washington Wizards,18,18,15,23,15,19,18,22,"12.08.2021
+AOT"
+185,Brooklyn Nets,Milwaukee Bucks,24,24,25,24,16,27,28,20,11.08.2021
+186,Memphis Grizzlies,Brooklyn Nets,15,28,18,30,16,17,26,25,09.08.2021
+187,Brooklyn Nets,Milwaukee Bucks,28,25,28,28,25,22,35,27,"20.06.2021
+AOT"
+188,Milwaukee Bucks,Brooklyn Nets,26,33,19,26,19,29,19,22,18.06.2021
+189,Brooklyn Nets,Milwaukee Bucks,15,28,38,33,29,30,28,21,16.06.2021
+190,Milwaukee Bucks,Brooklyn Nets,23,30,28,26,26,22,21,27,13.06.2021
+191,Milwaukee Bucks,Brooklyn Nets,30,15,22,19,11,31,23,18,11.06.2021
+192,Brooklyn Nets,Milwaukee Bucks,36,29,30,30,19,22,24,21,08.06.2021
+193,Brooklyn Nets,Milwaukee Bucks,30,33,35,17,32,29,23,23,06.06.2021
+194,Brooklyn Nets,Boston Celtics,31,28,27,37,24,27,28,30,02.06.2021
+195,Boston Celtics,Brooklyn Nets,34,26,31,35,33,40,39,29,31.05.2021
+196,Boston Celtics,Brooklyn Nets,33,28,35,29,32,25,27,35,29.05.2021
+197,Brooklyn Nets,Boston Celtics,40,31,38,21,26,21,35,26,26.05.2021
+198,Brooklyn Nets,Boston Celtics,16,31,31,26,21,32,20,20,23.05.2021
+199,Brooklyn Nets,Cleveland Cavaliers,34,33,32,24,24,32,20,33,17.05.2021
+200,Brooklyn Nets,Chicago Bulls,28,33,18,26,29,22,20,20,15.05.2021
+201,Brooklyn Nets,San Antonio Spurs,35,22,39,32,20,31,30,35,13.05.2021
+202,Chicago Bulls,Brooklyn Nets,23,28,23,33,32,32,29,22,12.05.2021
+203,Denver Nuggets,Brooklyn Nets,37,34,33,15,24,32,41,28,09.05.2021
+204,Dallas Mavericks,Brooklyn Nets,37,26,19,31,32,30,21,26,07.05.2021
+205,Milwaukee Bucks,Brooklyn Nets,34,32,26,32,33,25,36,24,05.05.2021
+206,Milwaukee Bucks,Brooklyn Nets,28,34,28,27,37,22,31,24,02.05.2021
+207,Brooklyn Nets,Portland Trail Blazers,25,32,24,28,23,36,35,34,01.05.2021
+208,Indiana Pacers,Brooklyn Nets,28,24,41,20,35,31,45,19,30.04.2021
+209,Toronto Raptors,Brooklyn Nets,28,24,31,20,26,30,24,36,28.04.2021
+210,Brooklyn Nets,Phoenix Suns,27,32,38,31,32,29,31,27,25.04.2021
+211,Brooklyn Nets,Boston Celtics,21,39,28,21,25,26,22,31,24.04.2021
+212,Toronto Raptors,Brooklyn Nets,23,33,36,22,36,22,23,22,22.04.2021
+213,New Orleans Pelicans,Brooklyn Nets,29,30,33,37,26,31,36,41,21.04.2021
+214,Miami Heat,Brooklyn Nets,32,32,22,23,31,29,24,23,18.04.2021
+215,Brooklyn Nets,Charlotte Hornets,29,32,33,36,35,26,28,26,17.04.2021
+216,Philadelphia 76ers,Brooklyn Nets,32,33,29,29,28,30,26,33,15.04.2021
+217,Minnesota Timberwolves,Brooklyn Nets,25,27,22,23,33,40,31,23,13.04.2021
+218,Brooklyn Nets,Los Angeles Lakers,25,33,19,24,33,28,31,34,11.04.2021
+219,Brooklyn Nets,New Orleans Pelicans,36,43,36,24,33,26,23,29,08.04.2021
+220,Brooklyn Nets,New York Knicks,31,26,32,25,34,33,21,24,06.04.2021
+221,Chicago Bulls,Brooklyn Nets,25,32,32,26,28,18,26,35,04.04.2021
+222,Brooklyn Nets,Charlotte Hornets,32,36,24,19,11,37,17,24,02.04.2021
+223,Brooklyn Nets,Houston Rockets,29,28,29,34,42,26,19,21,01.04.2021
+224,Brooklyn Nets,Minnesota Timberwolves,37,24,26,25,25,27,25,30,30.03.2021
+225,Detroit Pistons,Brooklyn Nets,27,23,28,33,34,25,23,31,27.03.2021
+226,Utah Jazz,Brooklyn Nets,38,25,27,28,17,21,23,27,25.03.2021
+227,Portland Trail Blazers,Brooklyn Nets,41,25,25,21,37,28,27,24,24.03.2021
+228,Brooklyn Nets,Washington Wizards,25,38,25,25,30,26,27,23,22.03.2021
+229,Orlando Magic,Brooklyn Nets,35,29,39,18,29,33,22,29,20.03.2021
+230,Indiana Pacers,Brooklyn Nets,40,21,30,24,25,33,31,35,18.03.2021
+231,Brooklyn Nets,New York Knicks,35,32,29,21,30,25,29,28,16.03.2021
+232,Brooklyn Nets,Detroit Pistons,26,25,27,22,22,24,20,29,14.03.2021
+233,Brooklyn Nets,Boston Celtics,23,35,30,33,29,26,31,23,12.03.2021
+234,Houston Rockets,Brooklyn Nets,27,27,31,29,30,37,34,31,04.03.2021
+235,San Antonio Spurs,Brooklyn Nets,21,33,27,27,27,30,24,27,"02.03.2021
+AOT"
+236,Brooklyn Nets,Dallas Mavericks,26,38,18,16,38,30,26,21,28.02.2021
+237,Brooklyn Nets,Orlando Magic,24,41,27,37,28,19,25,20,26.02.2021
+238,Brooklyn Nets,Sacramento Kings,42,30,26,29,28,38,30,22,24.02.2021
+239,Los Angeles Clippers,Brooklyn Nets,30,21,28,29,28,30,31,23,22.02.2021
+240,Los Angeles Lakers,Brooklyn Nets,24,29,21,24,31,33,26,19,19.02.2021
+241,Phoenix Suns,Brooklyn Nets,33,42,25,24,22,32,34,40,17.02.2021
+242,Sacramento Kings,Brooklyn Nets,37,31,20,37,36,38,33,29,16.02.2021
+243,Golden State Warriors,Brooklyn Nets,28,23,31,35,37,29,42,26,14.02.2021
+244,Brooklyn Nets,Indiana Pacers,27,35,20,22,18,12,32,32,11.02.2021
+245,Detroit Pistons,Brooklyn Nets,38,25,31,28,26,28,32,25,10.02.2021
+246,Philadelphia 76ers,Brooklyn Nets,34,25,43,22,29,27,30,22,07.02.2021
+247,Brooklyn Nets,Toronto Raptors,23,40,27,27,34,33,25,31,06.02.2021
+248,Brooklyn Nets,Los Angeles Clippers,24,33,31,36,32,26,32,30,03.02.2021
+249,Washington Wizards,Brooklyn Nets,28,37,36,48,38,33,37,38,01.02.2021
+250,Oklahoma City Thunder,Brooklyn Nets,27,32,35,31,36,40,39,32,30.01.2021
+251,Atlanta Hawks,Brooklyn Nets,27,28,32,29,26,29,28,33,"28.01.2021
+AOT"
+252,Brooklyn Nets,Miami Heat,15,26,29,28,21,24,26,14,26.01.2021
+253,Brooklyn Nets,Miami Heat,36,30,30,32,25,31,26,42,24.01.2021
+254,Cleveland Cavaliers,Brooklyn Nets,34,27,37,27,33,27,24,29,23.01.2021
+255,Cleveland Cavaliers,Brooklyn Nets,28,23,36,26,23,26,29,35,"21.01.2021
+AOT"
+256,Brooklyn Nets,Milwaukee Bucks,28,29,37,31,34,22,33,34,19.01.2021
+257,Brooklyn Nets,Orlando Magic,29,23,32,38,26,24,33,32,17.01.2021
+258,New York Knicks,Brooklyn Nets,25,20,31,33,26,35,31,24,14.01.2021
+259,Brooklyn Nets,Denver Nuggets,27,27,36,32,35,35,20,26,13.01.2021
+260,Brooklyn Nets,Oklahoma City Thunder,41,22,18,35,29,28,37,35,11.01.2021
+261,Memphis Grizzlies,Brooklyn Nets,40,22,30,23,28,19,39,24,09.01.2021
+262,Brooklyn Nets,Philadelphia 76ers,28,37,29,28,26,25,33,25,08.01.2021
+263,Brooklyn Nets,Utah Jazz,35,28,35,32,14,30,29,23,06.01.2021
+264,Brooklyn Nets,Washington Wizards,28,43,22,29,29,41,24,29,04.01.2021
+265,Brooklyn Nets,Atlanta Hawks,23,29,21,23,29,32,28,25,02.01.2021
+266,Brooklyn Nets,Atlanta Hawks,38,29,35,43,41,27,36,37,31.12.2020
+267,Brooklyn Nets,Memphis Grizzlies,23,32,30,21,32,22,33,19,"29.12.2020
+AOT"
+268,Charlotte Hornets,Brooklyn Nets,23,25,34,24,22,28,27,27,28.12.2020
+269,Boston Celtics,Brooklyn Nets,22,32,23,18,26,25,35,37,25.12.2020
+270,Brooklyn Nets,Golden State Warriors,40,23,36,26,25,20,26,28,23.12.2020
+271,Boston Celtics,Brooklyn Nets,23,21,16,29,35,27,30,21,19.12.2020
+272,Brooklyn Nets,Washington Wizards,38,30,22,29,20,30,34,30,14.12.2020
+273,Brooklyn Nets,Toronto Raptors,32,36,19,35,39,38,39,34,23.08.2020
+274,Brooklyn Nets,Toronto Raptors,17,25,26,24,24,33,27,33,21.08.2020
+275,Toronto Raptors,Brooklyn Nets,29,21,24,30,33,20,27,19,19.08.2020
+276,Toronto Raptors,Brooklyn Nets,37,36,22,39,20,31,35,24,17.08.2020
+277,Brooklyn Nets,Portland Trail Blazers,31,36,37,29,31,42,24,37,14.08.2020
+278,Orlando Magic,Brooklyn Nets,22,21,29,24,34,26,25,23,11.08.2020
+279,Los Angeles Clippers,Brooklyn Nets,24,39,31,26,45,29,24,31,10.08.2020
